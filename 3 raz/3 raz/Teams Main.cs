@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace _3_raz
 {
-    public partial class Visitor_Menu : Form
+    public partial class Teams_Main : Form
     {
-        public Visitor_Menu()
+        public Teams_Main()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Form TeamsForm = new Teams_Main();
-            TeamsForm.Show();
         }
     }
 }

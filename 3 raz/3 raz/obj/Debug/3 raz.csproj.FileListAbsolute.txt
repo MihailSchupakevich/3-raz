@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\bin\Debug\3 raz.exe.config
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\bin\Debug\3 raz.exe
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\bin\Debug\3 raz.pdb
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\3 raz.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\3 raz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\_3_raz.Form1.resources
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\_3_raz.Properties.Resources.resources
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\3 raz.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\3 raz.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\3 raz.exe
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\3 raz.pdb
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\_3_raz.Teams_Main.resources
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\_3_raz.Visitor_Menu.resources
