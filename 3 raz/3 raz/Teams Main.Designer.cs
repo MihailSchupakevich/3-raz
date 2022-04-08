@@ -320,11 +320,11 @@
             // 
             this.Eastern.Controls.Add(this.tabPage1);
             this.Eastern.Controls.Add(this.tabPage2);
-            this.Eastern.Location = new System.Drawing.Point(12, 65);
+            this.Eastern.Location = new System.Drawing.Point(10, 69);
             this.Eastern.Name = "Eastern";
             this.Eastern.SelectedIndex = 0;
-            this.Eastern.Size = new System.Drawing.Size(1198, 551);
-            this.Eastern.TabIndex = 2;
+            this.Eastern.Size = new System.Drawing.Size(1228, 537);
+            this.Eastern.TabIndex = 3;
             // 
             // tabPage1
             // 
@@ -334,7 +334,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(1190, 525);
+            this.tabPage1.Size = new System.Drawing.Size(1220, 511);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Eastern";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -1391,7 +1391,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(1190, 525);
+            this.tabPage2.Size = new System.Drawing.Size(1220, 511);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Western";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -2449,6 +2449,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Teams_Main";
             this.Text = "Teams_Main";
+            this.Load += new System.EventHandler(this.Teams_Main_Load);
             this.Eastern.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tableLayoutPanel3.ResumeLayout(false);

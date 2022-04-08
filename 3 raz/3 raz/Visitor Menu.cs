@@ -22,5 +22,12 @@ namespace _3_raz
             Form TeamsForm = new Teams_Main();
             TeamsForm.Show();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form1 frm = new Form1();
+            frm.Show();
+        }
     }
 }
