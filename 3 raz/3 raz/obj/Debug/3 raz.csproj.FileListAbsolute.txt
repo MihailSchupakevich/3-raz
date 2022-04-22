@@ -11,3 +11,4 @@ C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\3 raz.exe
 C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\3 raz.pdb
 C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\_3_raz.Teams_Main.resources
 C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\_3_raz.Visitor_Menu.resources
+C:\Users\Student\Desktop\3-raz\3 raz\3 raz\obj\Debug\_3_raz.Team_Detail.resources

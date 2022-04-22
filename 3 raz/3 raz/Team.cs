@@ -9,7 +9,7 @@ namespace _3_raz
     internal class Team
     {
         int teamId;
-        String name;
+    public String name;
         String abbr;
         String logo;
 

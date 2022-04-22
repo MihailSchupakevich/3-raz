@@ -32,278 +32,278 @@
             this.Eastern = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel13 = new System.Windows.Forms.Panel();
+            this.pane10 = new System.Windows.Forms.Panel();
             this.label44 = new System.Windows.Forms.Label();
             this.label45 = new System.Windows.Forms.Label();
             this.label46 = new System.Windows.Forms.Label();
-            this.label47 = new System.Windows.Forms.Label();
+            this.Team10 = new System.Windows.Forms.Label();
             this.logo10 = new System.Windows.Forms.PictureBox();
-            this.panel14 = new System.Windows.Forms.Panel();
+            this.pane9 = new System.Windows.Forms.Panel();
             this.label48 = new System.Windows.Forms.Label();
             this.label49 = new System.Windows.Forms.Label();
             this.label50 = new System.Windows.Forms.Label();
-            this.label51 = new System.Windows.Forms.Label();
+            this.Team9 = new System.Windows.Forms.Label();
             this.logo9 = new System.Windows.Forms.PictureBox();
-            this.panel15 = new System.Windows.Forms.Panel();
+            this.pane8 = new System.Windows.Forms.Panel();
             this.label52 = new System.Windows.Forms.Label();
             this.label53 = new System.Windows.Forms.Label();
             this.label54 = new System.Windows.Forms.Label();
-            this.label55 = new System.Windows.Forms.Label();
+            this.Team8 = new System.Windows.Forms.Label();
             this.logo8 = new System.Windows.Forms.PictureBox();
-            this.panel16 = new System.Windows.Forms.Panel();
+            this.pane7 = new System.Windows.Forms.Panel();
             this.label56 = new System.Windows.Forms.Label();
             this.label57 = new System.Windows.Forms.Label();
             this.label58 = new System.Windows.Forms.Label();
-            this.label59 = new System.Windows.Forms.Label();
+            this.Team7 = new System.Windows.Forms.Label();
             this.logo7 = new System.Windows.Forms.PictureBox();
             this.panel17 = new System.Windows.Forms.Panel();
             this.label60 = new System.Windows.Forms.Label();
-            this.panel18 = new System.Windows.Forms.Panel();
+            this.pane6 = new System.Windows.Forms.Panel();
             this.label61 = new System.Windows.Forms.Label();
             this.label62 = new System.Windows.Forms.Label();
             this.label63 = new System.Windows.Forms.Label();
-            this.label64 = new System.Windows.Forms.Label();
+            this.Team6 = new System.Windows.Forms.Label();
             this.logo6 = new System.Windows.Forms.PictureBox();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel7 = new System.Windows.Forms.Panel();
+            this.pane15 = new System.Windows.Forms.Panel();
             this.label23 = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
             this.label25 = new System.Windows.Forms.Label();
-            this.label26 = new System.Windows.Forms.Label();
+            this.Team15 = new System.Windows.Forms.Label();
             this.logo15 = new System.Windows.Forms.PictureBox();
-            this.panel8 = new System.Windows.Forms.Panel();
+            this.pane14 = new System.Windows.Forms.Panel();
             this.label27 = new System.Windows.Forms.Label();
             this.label28 = new System.Windows.Forms.Label();
             this.label29 = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
+            this.Team14 = new System.Windows.Forms.Label();
             this.logo14 = new System.Windows.Forms.PictureBox();
-            this.panel9 = new System.Windows.Forms.Panel();
+            this.pane13 = new System.Windows.Forms.Panel();
             this.label31 = new System.Windows.Forms.Label();
             this.label32 = new System.Windows.Forms.Label();
             this.label33 = new System.Windows.Forms.Label();
-            this.label34 = new System.Windows.Forms.Label();
+            this.Team13 = new System.Windows.Forms.Label();
             this.logo13 = new System.Windows.Forms.PictureBox();
-            this.panel10 = new System.Windows.Forms.Panel();
+            this.pane12 = new System.Windows.Forms.Panel();
             this.label35 = new System.Windows.Forms.Label();
             this.label36 = new System.Windows.Forms.Label();
             this.label37 = new System.Windows.Forms.Label();
-            this.label38 = new System.Windows.Forms.Label();
+            this.Team12 = new System.Windows.Forms.Label();
             this.logo12 = new System.Windows.Forms.PictureBox();
             this.panel11 = new System.Windows.Forms.Panel();
             this.label39 = new System.Windows.Forms.Label();
-            this.panel12 = new System.Windows.Forms.Panel();
+            this.pane11 = new System.Windows.Forms.Panel();
             this.label40 = new System.Windows.Forms.Label();
             this.label41 = new System.Windows.Forms.Label();
             this.label42 = new System.Windows.Forms.Label();
-            this.label43 = new System.Windows.Forms.Label();
+            this.Team11 = new System.Windows.Forms.Label();
             this.logo11 = new System.Windows.Forms.PictureBox();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel6 = new System.Windows.Forms.Panel();
+            this.pane5 = new System.Windows.Forms.Panel();
             this.label19 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
             this.label21 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
+            this.Team5 = new System.Windows.Forms.Label();
             this.logo5 = new System.Windows.Forms.PictureBox();
-            this.panel5 = new System.Windows.Forms.Panel();
+            this.pane4 = new System.Windows.Forms.Panel();
             this.label15 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
+            this.Team4 = new System.Windows.Forms.Label();
             this.logo4 = new System.Windows.Forms.PictureBox();
-            this.panel4 = new System.Windows.Forms.Panel();
+            this.pane3 = new System.Windows.Forms.Panel();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
+            this.Team3 = new System.Windows.Forms.Label();
             this.logo3 = new System.Windows.Forms.PictureBox();
-            this.panel3 = new System.Windows.Forms.Panel();
+            this.pane2 = new System.Windows.Forms.Panel();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
+            this.Team2 = new System.Windows.Forms.Label();
             this.logo2 = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
-            this.panel2 = new System.Windows.Forms.Panel();
+            this.pane1 = new System.Windows.Forms.Panel();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
+            this.Team1 = new System.Windows.Forms.Label();
             this.logo1 = new System.Windows.Forms.PictureBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.tableLayoutPanel5 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel25 = new System.Windows.Forms.Panel();
+            this.pane25 = new System.Windows.Forms.Panel();
             this.label86 = new System.Windows.Forms.Label();
             this.label87 = new System.Windows.Forms.Label();
             this.label88 = new System.Windows.Forms.Label();
-            this.label89 = new System.Windows.Forms.Label();
+            this.Team25 = new System.Windows.Forms.Label();
             this.logo25 = new System.Windows.Forms.PictureBox();
-            this.panel26 = new System.Windows.Forms.Panel();
+            this.pane24 = new System.Windows.Forms.Panel();
             this.label90 = new System.Windows.Forms.Label();
             this.label91 = new System.Windows.Forms.Label();
             this.label92 = new System.Windows.Forms.Label();
-            this.label93 = new System.Windows.Forms.Label();
+            this.Team24 = new System.Windows.Forms.Label();
             this.logo24 = new System.Windows.Forms.PictureBox();
-            this.panel27 = new System.Windows.Forms.Panel();
+            this.pane23 = new System.Windows.Forms.Panel();
             this.label94 = new System.Windows.Forms.Label();
             this.label95 = new System.Windows.Forms.Label();
             this.label96 = new System.Windows.Forms.Label();
-            this.label97 = new System.Windows.Forms.Label();
+            this.Team23 = new System.Windows.Forms.Label();
             this.logo23 = new System.Windows.Forms.PictureBox();
-            this.panel28 = new System.Windows.Forms.Panel();
+            this.pane22 = new System.Windows.Forms.Panel();
             this.label98 = new System.Windows.Forms.Label();
             this.label99 = new System.Windows.Forms.Label();
             this.label100 = new System.Windows.Forms.Label();
-            this.label101 = new System.Windows.Forms.Label();
+            this.Team22 = new System.Windows.Forms.Label();
             this.logo22 = new System.Windows.Forms.PictureBox();
             this.panel29 = new System.Windows.Forms.Panel();
             this.label102 = new System.Windows.Forms.Label();
-            this.panel30 = new System.Windows.Forms.Panel();
+            this.pane21 = new System.Windows.Forms.Panel();
             this.label103 = new System.Windows.Forms.Label();
             this.label104 = new System.Windows.Forms.Label();
             this.label105 = new System.Windows.Forms.Label();
-            this.label106 = new System.Windows.Forms.Label();
+            this.Team21 = new System.Windows.Forms.Label();
             this.logo21 = new System.Windows.Forms.PictureBox();
             this.tableLayoutPanel7 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel37 = new System.Windows.Forms.Panel();
+            this.pane20 = new System.Windows.Forms.Panel();
             this.label128 = new System.Windows.Forms.Label();
             this.label129 = new System.Windows.Forms.Label();
             this.label130 = new System.Windows.Forms.Label();
-            this.label131 = new System.Windows.Forms.Label();
+            this.Team20 = new System.Windows.Forms.Label();
             this.logo20 = new System.Windows.Forms.PictureBox();
-            this.panel38 = new System.Windows.Forms.Panel();
+            this.pane19 = new System.Windows.Forms.Panel();
             this.label132 = new System.Windows.Forms.Label();
             this.label133 = new System.Windows.Forms.Label();
             this.label134 = new System.Windows.Forms.Label();
-            this.label135 = new System.Windows.Forms.Label();
+            this.Team19 = new System.Windows.Forms.Label();
             this.logo19 = new System.Windows.Forms.PictureBox();
-            this.panel39 = new System.Windows.Forms.Panel();
+            this.pane18 = new System.Windows.Forms.Panel();
             this.label136 = new System.Windows.Forms.Label();
             this.label137 = new System.Windows.Forms.Label();
             this.label138 = new System.Windows.Forms.Label();
-            this.label139 = new System.Windows.Forms.Label();
+            this.Team18 = new System.Windows.Forms.Label();
             this.logo18 = new System.Windows.Forms.PictureBox();
-            this.panel40 = new System.Windows.Forms.Panel();
+            this.pane17 = new System.Windows.Forms.Panel();
             this.label140 = new System.Windows.Forms.Label();
             this.label141 = new System.Windows.Forms.Label();
             this.label142 = new System.Windows.Forms.Label();
-            this.label143 = new System.Windows.Forms.Label();
+            this.Team17 = new System.Windows.Forms.Label();
             this.logo17 = new System.Windows.Forms.PictureBox();
             this.panel41 = new System.Windows.Forms.Panel();
             this.label144 = new System.Windows.Forms.Label();
-            this.panel42 = new System.Windows.Forms.Panel();
+            this.pane16 = new System.Windows.Forms.Panel();
             this.label145 = new System.Windows.Forms.Label();
             this.label146 = new System.Windows.Forms.Label();
             this.label147 = new System.Windows.Forms.Label();
-            this.label148 = new System.Windows.Forms.Label();
+            this.Team16 = new System.Windows.Forms.Label();
             this.logo16 = new System.Windows.Forms.PictureBox();
             this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel19 = new System.Windows.Forms.Panel();
+            this.pane30 = new System.Windows.Forms.Panel();
             this.label65 = new System.Windows.Forms.Label();
             this.label66 = new System.Windows.Forms.Label();
             this.label67 = new System.Windows.Forms.Label();
-            this.label68 = new System.Windows.Forms.Label();
+            this.Team30 = new System.Windows.Forms.Label();
             this.logo30 = new System.Windows.Forms.PictureBox();
-            this.panel20 = new System.Windows.Forms.Panel();
+            this.pane29 = new System.Windows.Forms.Panel();
             this.label69 = new System.Windows.Forms.Label();
             this.label70 = new System.Windows.Forms.Label();
             this.label71 = new System.Windows.Forms.Label();
-            this.label72 = new System.Windows.Forms.Label();
+            this.Team29 = new System.Windows.Forms.Label();
             this.logo29 = new System.Windows.Forms.PictureBox();
-            this.panel21 = new System.Windows.Forms.Panel();
+            this.pane28 = new System.Windows.Forms.Panel();
             this.label73 = new System.Windows.Forms.Label();
             this.label74 = new System.Windows.Forms.Label();
             this.label75 = new System.Windows.Forms.Label();
-            this.label76 = new System.Windows.Forms.Label();
+            this.Team28 = new System.Windows.Forms.Label();
             this.logo28 = new System.Windows.Forms.PictureBox();
-            this.panel22 = new System.Windows.Forms.Panel();
+            this.pane27 = new System.Windows.Forms.Panel();
             this.label77 = new System.Windows.Forms.Label();
             this.label78 = new System.Windows.Forms.Label();
             this.label79 = new System.Windows.Forms.Label();
-            this.label80 = new System.Windows.Forms.Label();
+            this.Team27 = new System.Windows.Forms.Label();
             this.logo27 = new System.Windows.Forms.PictureBox();
             this.panel23 = new System.Windows.Forms.Panel();
             this.label81 = new System.Windows.Forms.Label();
-            this.panel24 = new System.Windows.Forms.Panel();
+            this.pane26 = new System.Windows.Forms.Panel();
             this.label82 = new System.Windows.Forms.Label();
             this.label83 = new System.Windows.Forms.Label();
             this.label84 = new System.Windows.Forms.Label();
-            this.label85 = new System.Windows.Forms.Label();
+            this.Team26 = new System.Windows.Forms.Label();
             this.logo26 = new System.Windows.Forms.PictureBox();
             this.Eastern.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
-            this.panel13.SuspendLayout();
+            this.pane10.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo10)).BeginInit();
-            this.panel14.SuspendLayout();
+            this.pane9.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo9)).BeginInit();
-            this.panel15.SuspendLayout();
+            this.pane8.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo8)).BeginInit();
-            this.panel16.SuspendLayout();
+            this.pane7.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo7)).BeginInit();
             this.panel17.SuspendLayout();
-            this.panel18.SuspendLayout();
+            this.pane6.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo6)).BeginInit();
             this.tableLayoutPanel2.SuspendLayout();
-            this.panel7.SuspendLayout();
+            this.pane15.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo15)).BeginInit();
-            this.panel8.SuspendLayout();
+            this.pane14.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo14)).BeginInit();
-            this.panel9.SuspendLayout();
+            this.pane13.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo13)).BeginInit();
-            this.panel10.SuspendLayout();
+            this.pane12.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo12)).BeginInit();
             this.panel11.SuspendLayout();
-            this.panel12.SuspendLayout();
+            this.pane11.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo11)).BeginInit();
             this.tableLayoutPanel1.SuspendLayout();
-            this.panel6.SuspendLayout();
+            this.pane5.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo5)).BeginInit();
-            this.panel5.SuspendLayout();
+            this.pane4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo4)).BeginInit();
-            this.panel4.SuspendLayout();
+            this.pane3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo3)).BeginInit();
-            this.panel3.SuspendLayout();
+            this.pane2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo2)).BeginInit();
             this.panel1.SuspendLayout();
-            this.panel2.SuspendLayout();
+            this.pane1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo1)).BeginInit();
             this.tabPage2.SuspendLayout();
             this.tableLayoutPanel5.SuspendLayout();
-            this.panel25.SuspendLayout();
+            this.pane25.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo25)).BeginInit();
-            this.panel26.SuspendLayout();
+            this.pane24.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo24)).BeginInit();
-            this.panel27.SuspendLayout();
+            this.pane23.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo23)).BeginInit();
-            this.panel28.SuspendLayout();
+            this.pane22.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo22)).BeginInit();
             this.panel29.SuspendLayout();
-            this.panel30.SuspendLayout();
+            this.pane21.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo21)).BeginInit();
             this.tableLayoutPanel7.SuspendLayout();
-            this.panel37.SuspendLayout();
+            this.pane20.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo20)).BeginInit();
-            this.panel38.SuspendLayout();
+            this.pane19.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo19)).BeginInit();
-            this.panel39.SuspendLayout();
+            this.pane18.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo18)).BeginInit();
-            this.panel40.SuspendLayout();
+            this.pane17.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo17)).BeginInit();
             this.panel41.SuspendLayout();
-            this.panel42.SuspendLayout();
+            this.pane16.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo16)).BeginInit();
             this.tableLayoutPanel4.SuspendLayout();
-            this.panel19.SuspendLayout();
+            this.pane30.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo30)).BeginInit();
-            this.panel20.SuspendLayout();
+            this.pane29.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo29)).BeginInit();
-            this.panel21.SuspendLayout();
+            this.pane28.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo28)).BeginInit();
-            this.panel22.SuspendLayout();
+            this.pane27.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo27)).BeginInit();
             this.panel23.SuspendLayout();
-            this.panel24.SuspendLayout();
+            this.pane26.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo26)).BeginInit();
             this.SuspendLayout();
             // 
@@ -343,12 +343,12 @@
             // 
             this.tableLayoutPanel3.ColumnCount = 1;
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel3.Controls.Add(this.panel13, 0, 5);
-            this.tableLayoutPanel3.Controls.Add(this.panel14, 0, 4);
-            this.tableLayoutPanel3.Controls.Add(this.panel15, 0, 3);
-            this.tableLayoutPanel3.Controls.Add(this.panel16, 0, 2);
+            this.tableLayoutPanel3.Controls.Add(this.pane10, 0, 5);
+            this.tableLayoutPanel3.Controls.Add(this.pane9, 0, 4);
+            this.tableLayoutPanel3.Controls.Add(this.pane8, 0, 3);
+            this.tableLayoutPanel3.Controls.Add(this.pane7, 0, 2);
             this.tableLayoutPanel3.Controls.Add(this.panel17, 0, 0);
-            this.tableLayoutPanel3.Controls.Add(this.panel18, 0, 1);
+            this.tableLayoutPanel3.Controls.Add(this.pane6, 0, 1);
             this.tableLayoutPanel3.Location = new System.Drawing.Point(426, 6);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 6;
@@ -362,17 +362,17 @@
             this.tableLayoutPanel3.Size = new System.Drawing.Size(368, 523);
             this.tableLayoutPanel3.TabIndex = 2;
             // 
-            // panel13
+            // pane10
             // 
-            this.panel13.Controls.Add(this.label44);
-            this.panel13.Controls.Add(this.label45);
-            this.panel13.Controls.Add(this.label46);
-            this.panel13.Controls.Add(this.label47);
-            this.panel13.Controls.Add(this.logo10);
-            this.panel13.Location = new System.Drawing.Point(3, 425);
-            this.panel13.Name = "panel13";
-            this.panel13.Size = new System.Drawing.Size(361, 95);
-            this.panel13.TabIndex = 5;
+            this.pane10.Controls.Add(this.label44);
+            this.pane10.Controls.Add(this.label45);
+            this.pane10.Controls.Add(this.label46);
+            this.pane10.Controls.Add(this.Team10);
+            this.pane10.Controls.Add(this.logo10);
+            this.pane10.Location = new System.Drawing.Point(3, 425);
+            this.pane10.Name = "pane10";
+            this.pane10.Size = new System.Drawing.Size(361, 80);
+            this.pane10.TabIndex = 5;
             // 
             // label44
             // 
@@ -404,15 +404,15 @@
             this.label46.TabIndex = 3;
             this.label46.Text = "Roster";
             // 
-            // label47
+            // Team10
             // 
-            this.label47.AutoSize = true;
-            this.label47.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label47.Location = new System.Drawing.Point(150, 3);
-            this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(111, 23);
-            this.label47.TabIndex = 2;
-            this.label47.Text = "Team Name";
+            this.Team10.AutoSize = true;
+            this.Team10.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team10.Location = new System.Drawing.Point(150, 3);
+            this.Team10.Name = "Team10";
+            this.Team10.Size = new System.Drawing.Size(111, 23);
+            this.Team10.TabIndex = 2;
+            this.Team10.Text = "Team Name";
             // 
             // logo10
             // 
@@ -423,17 +423,17 @@
             this.logo10.TabIndex = 1;
             this.logo10.TabStop = false;
             // 
-            // panel14
+            // pane9
             // 
-            this.panel14.Controls.Add(this.label48);
-            this.panel14.Controls.Add(this.label49);
-            this.panel14.Controls.Add(this.label50);
-            this.panel14.Controls.Add(this.label51);
-            this.panel14.Controls.Add(this.logo9);
-            this.panel14.Location = new System.Drawing.Point(3, 326);
-            this.panel14.Name = "panel14";
-            this.panel14.Size = new System.Drawing.Size(361, 93);
-            this.panel14.TabIndex = 4;
+            this.pane9.Controls.Add(this.label48);
+            this.pane9.Controls.Add(this.label49);
+            this.pane9.Controls.Add(this.label50);
+            this.pane9.Controls.Add(this.Team9);
+            this.pane9.Controls.Add(this.logo9);
+            this.pane9.Location = new System.Drawing.Point(3, 326);
+            this.pane9.Name = "pane9";
+            this.pane9.Size = new System.Drawing.Size(361, 93);
+            this.pane9.TabIndex = 4;
             // 
             // label48
             // 
@@ -465,15 +465,15 @@
             this.label50.TabIndex = 3;
             this.label50.Text = "Roster";
             // 
-            // label51
+            // Team9
             // 
-            this.label51.AutoSize = true;
-            this.label51.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label51.Location = new System.Drawing.Point(150, 3);
-            this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(111, 23);
-            this.label51.TabIndex = 2;
-            this.label51.Text = "Team Name";
+            this.Team9.AutoSize = true;
+            this.Team9.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team9.Location = new System.Drawing.Point(150, 3);
+            this.Team9.Name = "Team9";
+            this.Team9.Size = new System.Drawing.Size(111, 23);
+            this.Team9.TabIndex = 2;
+            this.Team9.Text = "Team Name";
             // 
             // logo9
             // 
@@ -484,17 +484,17 @@
             this.logo9.TabIndex = 1;
             this.logo9.TabStop = false;
             // 
-            // panel15
+            // pane8
             // 
-            this.panel15.Controls.Add(this.label52);
-            this.panel15.Controls.Add(this.label53);
-            this.panel15.Controls.Add(this.label54);
-            this.panel15.Controls.Add(this.label55);
-            this.panel15.Controls.Add(this.logo8);
-            this.panel15.Location = new System.Drawing.Point(3, 222);
-            this.panel15.Name = "panel15";
-            this.panel15.Size = new System.Drawing.Size(361, 98);
-            this.panel15.TabIndex = 3;
+            this.pane8.Controls.Add(this.label52);
+            this.pane8.Controls.Add(this.label53);
+            this.pane8.Controls.Add(this.label54);
+            this.pane8.Controls.Add(this.Team8);
+            this.pane8.Controls.Add(this.logo8);
+            this.pane8.Location = new System.Drawing.Point(3, 222);
+            this.pane8.Name = "pane8";
+            this.pane8.Size = new System.Drawing.Size(361, 98);
+            this.pane8.TabIndex = 3;
             // 
             // label52
             // 
@@ -526,15 +526,15 @@
             this.label54.TabIndex = 3;
             this.label54.Text = "Roster";
             // 
-            // label55
+            // Team8
             // 
-            this.label55.AutoSize = true;
-            this.label55.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label55.Location = new System.Drawing.Point(150, 3);
-            this.label55.Name = "label55";
-            this.label55.Size = new System.Drawing.Size(111, 23);
-            this.label55.TabIndex = 2;
-            this.label55.Text = "Team Name";
+            this.Team8.AutoSize = true;
+            this.Team8.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team8.Location = new System.Drawing.Point(150, 3);
+            this.Team8.Name = "Team8";
+            this.Team8.Size = new System.Drawing.Size(111, 23);
+            this.Team8.TabIndex = 2;
+            this.Team8.Text = "Team Name";
             // 
             // logo8
             // 
@@ -545,17 +545,17 @@
             this.logo8.TabIndex = 1;
             this.logo8.TabStop = false;
             // 
-            // panel16
+            // pane7
             // 
-            this.panel16.Controls.Add(this.label56);
-            this.panel16.Controls.Add(this.label57);
-            this.panel16.Controls.Add(this.label58);
-            this.panel16.Controls.Add(this.label59);
-            this.panel16.Controls.Add(this.logo7);
-            this.panel16.Location = new System.Drawing.Point(3, 120);
-            this.panel16.Name = "panel16";
-            this.panel16.Size = new System.Drawing.Size(361, 96);
-            this.panel16.TabIndex = 2;
+            this.pane7.Controls.Add(this.label56);
+            this.pane7.Controls.Add(this.label57);
+            this.pane7.Controls.Add(this.label58);
+            this.pane7.Controls.Add(this.Team7);
+            this.pane7.Controls.Add(this.logo7);
+            this.pane7.Location = new System.Drawing.Point(3, 120);
+            this.pane7.Name = "pane7";
+            this.pane7.Size = new System.Drawing.Size(361, 96);
+            this.pane7.TabIndex = 2;
             // 
             // label56
             // 
@@ -587,15 +587,15 @@
             this.label58.TabIndex = 3;
             this.label58.Text = "Roster";
             // 
-            // label59
+            // Team7
             // 
-            this.label59.AutoSize = true;
-            this.label59.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label59.Location = new System.Drawing.Point(150, 3);
-            this.label59.Name = "label59";
-            this.label59.Size = new System.Drawing.Size(111, 23);
-            this.label59.TabIndex = 2;
-            this.label59.Text = "Team Name";
+            this.Team7.AutoSize = true;
+            this.Team7.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team7.Location = new System.Drawing.Point(150, 3);
+            this.Team7.Name = "Team7";
+            this.Team7.Size = new System.Drawing.Size(111, 23);
+            this.Team7.TabIndex = 2;
+            this.Team7.Text = "Team Name";
             // 
             // logo7
             // 
@@ -626,17 +626,17 @@
             this.label60.TabIndex = 0;
             this.label60.Text = "Central";
             // 
-            // panel18
+            // pane6
             // 
-            this.panel18.Controls.Add(this.label61);
-            this.panel18.Controls.Add(this.label62);
-            this.panel18.Controls.Add(this.label63);
-            this.panel18.Controls.Add(this.label64);
-            this.panel18.Controls.Add(this.logo6);
-            this.panel18.Location = new System.Drawing.Point(3, 30);
-            this.panel18.Name = "panel18";
-            this.panel18.Size = new System.Drawing.Size(361, 84);
-            this.panel18.TabIndex = 1;
+            this.pane6.Controls.Add(this.label61);
+            this.pane6.Controls.Add(this.label62);
+            this.pane6.Controls.Add(this.label63);
+            this.pane6.Controls.Add(this.Team6);
+            this.pane6.Controls.Add(this.logo6);
+            this.pane6.Location = new System.Drawing.Point(3, 30);
+            this.pane6.Name = "pane6";
+            this.pane6.Size = new System.Drawing.Size(361, 84);
+            this.pane6.TabIndex = 1;
             // 
             // label61
             // 
@@ -668,15 +668,15 @@
             this.label63.TabIndex = 3;
             this.label63.Text = "Roster";
             // 
-            // label64
+            // Team6
             // 
-            this.label64.AutoSize = true;
-            this.label64.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label64.Location = new System.Drawing.Point(150, 3);
-            this.label64.Name = "label64";
-            this.label64.Size = new System.Drawing.Size(111, 23);
-            this.label64.TabIndex = 2;
-            this.label64.Text = "Team Name";
+            this.Team6.AutoSize = true;
+            this.Team6.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team6.Location = new System.Drawing.Point(150, 3);
+            this.Team6.Name = "Team6";
+            this.Team6.Size = new System.Drawing.Size(111, 23);
+            this.Team6.TabIndex = 2;
+            this.Team6.Text = "Team Name";
             // 
             // logo6
             // 
@@ -691,12 +691,12 @@
             // 
             this.tableLayoutPanel2.ColumnCount = 1;
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel2.Controls.Add(this.panel7, 0, 5);
-            this.tableLayoutPanel2.Controls.Add(this.panel8, 0, 4);
-            this.tableLayoutPanel2.Controls.Add(this.panel9, 0, 3);
-            this.tableLayoutPanel2.Controls.Add(this.panel10, 0, 2);
+            this.tableLayoutPanel2.Controls.Add(this.pane15, 0, 5);
+            this.tableLayoutPanel2.Controls.Add(this.pane14, 0, 4);
+            this.tableLayoutPanel2.Controls.Add(this.pane13, 0, 3);
+            this.tableLayoutPanel2.Controls.Add(this.pane12, 0, 2);
             this.tableLayoutPanel2.Controls.Add(this.panel11, 0, 0);
-            this.tableLayoutPanel2.Controls.Add(this.panel12, 0, 1);
+            this.tableLayoutPanel2.Controls.Add(this.pane11, 0, 1);
             this.tableLayoutPanel2.Location = new System.Drawing.Point(822, 3);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 6;
@@ -710,17 +710,17 @@
             this.tableLayoutPanel2.Size = new System.Drawing.Size(368, 523);
             this.tableLayoutPanel2.TabIndex = 1;
             // 
-            // panel7
+            // pane15
             // 
-            this.panel7.Controls.Add(this.label23);
-            this.panel7.Controls.Add(this.label24);
-            this.panel7.Controls.Add(this.label25);
-            this.panel7.Controls.Add(this.label26);
-            this.panel7.Controls.Add(this.logo15);
-            this.panel7.Location = new System.Drawing.Point(3, 425);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(361, 95);
-            this.panel7.TabIndex = 5;
+            this.pane15.Controls.Add(this.label23);
+            this.pane15.Controls.Add(this.label24);
+            this.pane15.Controls.Add(this.label25);
+            this.pane15.Controls.Add(this.Team15);
+            this.pane15.Controls.Add(this.logo15);
+            this.pane15.Location = new System.Drawing.Point(3, 425);
+            this.pane15.Name = "pane15";
+            this.pane15.Size = new System.Drawing.Size(361, 95);
+            this.pane15.TabIndex = 5;
             // 
             // label23
             // 
@@ -752,15 +752,15 @@
             this.label25.TabIndex = 3;
             this.label25.Text = "Roster";
             // 
-            // label26
+            // Team15
             // 
-            this.label26.AutoSize = true;
-            this.label26.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label26.Location = new System.Drawing.Point(150, 3);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(111, 23);
-            this.label26.TabIndex = 2;
-            this.label26.Text = "Team Name";
+            this.Team15.AutoSize = true;
+            this.Team15.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team15.Location = new System.Drawing.Point(150, 3);
+            this.Team15.Name = "Team15";
+            this.Team15.Size = new System.Drawing.Size(111, 23);
+            this.Team15.TabIndex = 2;
+            this.Team15.Text = "Team Name";
             // 
             // logo15
             // 
@@ -771,17 +771,17 @@
             this.logo15.TabIndex = 1;
             this.logo15.TabStop = false;
             // 
-            // panel8
+            // pane14
             // 
-            this.panel8.Controls.Add(this.label27);
-            this.panel8.Controls.Add(this.label28);
-            this.panel8.Controls.Add(this.label29);
-            this.panel8.Controls.Add(this.label30);
-            this.panel8.Controls.Add(this.logo14);
-            this.panel8.Location = new System.Drawing.Point(3, 326);
-            this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(361, 93);
-            this.panel8.TabIndex = 4;
+            this.pane14.Controls.Add(this.label27);
+            this.pane14.Controls.Add(this.label28);
+            this.pane14.Controls.Add(this.label29);
+            this.pane14.Controls.Add(this.Team14);
+            this.pane14.Controls.Add(this.logo14);
+            this.pane14.Location = new System.Drawing.Point(3, 326);
+            this.pane14.Name = "pane14";
+            this.pane14.Size = new System.Drawing.Size(361, 93);
+            this.pane14.TabIndex = 4;
             // 
             // label27
             // 
@@ -813,15 +813,15 @@
             this.label29.TabIndex = 3;
             this.label29.Text = "Roster";
             // 
-            // label30
+            // Team14
             // 
-            this.label30.AutoSize = true;
-            this.label30.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label30.Location = new System.Drawing.Point(150, 3);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(111, 23);
-            this.label30.TabIndex = 2;
-            this.label30.Text = "Team Name";
+            this.Team14.AutoSize = true;
+            this.Team14.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team14.Location = new System.Drawing.Point(150, 3);
+            this.Team14.Name = "Team14";
+            this.Team14.Size = new System.Drawing.Size(111, 23);
+            this.Team14.TabIndex = 2;
+            this.Team14.Text = "Team Name";
             // 
             // logo14
             // 
@@ -832,17 +832,17 @@
             this.logo14.TabIndex = 1;
             this.logo14.TabStop = false;
             // 
-            // panel9
+            // pane13
             // 
-            this.panel9.Controls.Add(this.label31);
-            this.panel9.Controls.Add(this.label32);
-            this.panel9.Controls.Add(this.label33);
-            this.panel9.Controls.Add(this.label34);
-            this.panel9.Controls.Add(this.logo13);
-            this.panel9.Location = new System.Drawing.Point(3, 222);
-            this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(361, 98);
-            this.panel9.TabIndex = 3;
+            this.pane13.Controls.Add(this.label31);
+            this.pane13.Controls.Add(this.label32);
+            this.pane13.Controls.Add(this.label33);
+            this.pane13.Controls.Add(this.Team13);
+            this.pane13.Controls.Add(this.logo13);
+            this.pane13.Location = new System.Drawing.Point(3, 222);
+            this.pane13.Name = "pane13";
+            this.pane13.Size = new System.Drawing.Size(361, 98);
+            this.pane13.TabIndex = 3;
             // 
             // label31
             // 
@@ -874,15 +874,15 @@
             this.label33.TabIndex = 3;
             this.label33.Text = "Roster";
             // 
-            // label34
+            // Team13
             // 
-            this.label34.AutoSize = true;
-            this.label34.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label34.Location = new System.Drawing.Point(150, 3);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(111, 23);
-            this.label34.TabIndex = 2;
-            this.label34.Text = "Team Name";
+            this.Team13.AutoSize = true;
+            this.Team13.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team13.Location = new System.Drawing.Point(150, 3);
+            this.Team13.Name = "Team13";
+            this.Team13.Size = new System.Drawing.Size(111, 23);
+            this.Team13.TabIndex = 2;
+            this.Team13.Text = "Team Name";
             // 
             // logo13
             // 
@@ -893,17 +893,17 @@
             this.logo13.TabIndex = 1;
             this.logo13.TabStop = false;
             // 
-            // panel10
+            // pane12
             // 
-            this.panel10.Controls.Add(this.label35);
-            this.panel10.Controls.Add(this.label36);
-            this.panel10.Controls.Add(this.label37);
-            this.panel10.Controls.Add(this.label38);
-            this.panel10.Controls.Add(this.logo12);
-            this.panel10.Location = new System.Drawing.Point(3, 120);
-            this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(361, 96);
-            this.panel10.TabIndex = 2;
+            this.pane12.Controls.Add(this.label35);
+            this.pane12.Controls.Add(this.label36);
+            this.pane12.Controls.Add(this.label37);
+            this.pane12.Controls.Add(this.Team12);
+            this.pane12.Controls.Add(this.logo12);
+            this.pane12.Location = new System.Drawing.Point(3, 120);
+            this.pane12.Name = "pane12";
+            this.pane12.Size = new System.Drawing.Size(361, 96);
+            this.pane12.TabIndex = 2;
             // 
             // label35
             // 
@@ -935,15 +935,15 @@
             this.label37.TabIndex = 3;
             this.label37.Text = "Roster";
             // 
-            // label38
+            // Team12
             // 
-            this.label38.AutoSize = true;
-            this.label38.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label38.Location = new System.Drawing.Point(150, 3);
-            this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(111, 23);
-            this.label38.TabIndex = 2;
-            this.label38.Text = "Team Name";
+            this.Team12.AutoSize = true;
+            this.Team12.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team12.Location = new System.Drawing.Point(150, 3);
+            this.Team12.Name = "Team12";
+            this.Team12.Size = new System.Drawing.Size(111, 23);
+            this.Team12.TabIndex = 2;
+            this.Team12.Text = "Team Name";
             // 
             // logo12
             // 
@@ -974,17 +974,17 @@
             this.label39.TabIndex = 0;
             this.label39.Text = "Southeast";
             // 
-            // panel12
+            // pane11
             // 
-            this.panel12.Controls.Add(this.label40);
-            this.panel12.Controls.Add(this.label41);
-            this.panel12.Controls.Add(this.label42);
-            this.panel12.Controls.Add(this.label43);
-            this.panel12.Controls.Add(this.logo11);
-            this.panel12.Location = new System.Drawing.Point(3, 30);
-            this.panel12.Name = "panel12";
-            this.panel12.Size = new System.Drawing.Size(361, 84);
-            this.panel12.TabIndex = 1;
+            this.pane11.Controls.Add(this.label40);
+            this.pane11.Controls.Add(this.label41);
+            this.pane11.Controls.Add(this.label42);
+            this.pane11.Controls.Add(this.Team11);
+            this.pane11.Controls.Add(this.logo11);
+            this.pane11.Location = new System.Drawing.Point(3, 30);
+            this.pane11.Name = "pane11";
+            this.pane11.Size = new System.Drawing.Size(361, 84);
+            this.pane11.TabIndex = 1;
             // 
             // label40
             // 
@@ -1016,15 +1016,15 @@
             this.label42.TabIndex = 3;
             this.label42.Text = "Roster";
             // 
-            // label43
+            // Team11
             // 
-            this.label43.AutoSize = true;
-            this.label43.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label43.Location = new System.Drawing.Point(150, 3);
-            this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(111, 23);
-            this.label43.TabIndex = 2;
-            this.label43.Text = "Team Name";
+            this.Team11.AutoSize = true;
+            this.Team11.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team11.Location = new System.Drawing.Point(150, 3);
+            this.Team11.Name = "Team11";
+            this.Team11.Size = new System.Drawing.Size(111, 23);
+            this.Team11.TabIndex = 2;
+            this.Team11.Text = "Team Name";
             // 
             // logo11
             // 
@@ -1039,12 +1039,12 @@
             // 
             this.tableLayoutPanel1.ColumnCount = 1;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel1.Controls.Add(this.panel6, 0, 5);
-            this.tableLayoutPanel1.Controls.Add(this.panel5, 0, 4);
-            this.tableLayoutPanel1.Controls.Add(this.panel4, 0, 3);
-            this.tableLayoutPanel1.Controls.Add(this.panel3, 0, 2);
+            this.tableLayoutPanel1.Controls.Add(this.pane5, 0, 5);
+            this.tableLayoutPanel1.Controls.Add(this.pane4, 0, 4);
+            this.tableLayoutPanel1.Controls.Add(this.pane3, 0, 3);
+            this.tableLayoutPanel1.Controls.Add(this.pane2, 0, 2);
             this.tableLayoutPanel1.Controls.Add(this.panel1, 0, 0);
-            this.tableLayoutPanel1.Controls.Add(this.panel2, 0, 1);
+            this.tableLayoutPanel1.Controls.Add(this.pane1, 0, 1);
             this.tableLayoutPanel1.Location = new System.Drawing.Point(22, 6);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 6;
@@ -1058,17 +1058,17 @@
             this.tableLayoutPanel1.Size = new System.Drawing.Size(368, 523);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
-            // panel6
+            // pane5
             // 
-            this.panel6.Controls.Add(this.label19);
-            this.panel6.Controls.Add(this.label20);
-            this.panel6.Controls.Add(this.label21);
-            this.panel6.Controls.Add(this.label22);
-            this.panel6.Controls.Add(this.logo5);
-            this.panel6.Location = new System.Drawing.Point(3, 425);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(361, 95);
-            this.panel6.TabIndex = 5;
+            this.pane5.Controls.Add(this.label19);
+            this.pane5.Controls.Add(this.label20);
+            this.pane5.Controls.Add(this.label21);
+            this.pane5.Controls.Add(this.Team5);
+            this.pane5.Controls.Add(this.logo5);
+            this.pane5.Location = new System.Drawing.Point(3, 425);
+            this.pane5.Name = "pane5";
+            this.pane5.Size = new System.Drawing.Size(361, 80);
+            this.pane5.TabIndex = 5;
             // 
             // label19
             // 
@@ -1100,15 +1100,15 @@
             this.label21.TabIndex = 3;
             this.label21.Text = "Roster";
             // 
-            // label22
+            // Team5
             // 
-            this.label22.AutoSize = true;
-            this.label22.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(150, 3);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(111, 23);
-            this.label22.TabIndex = 2;
-            this.label22.Text = "Team Name";
+            this.Team5.AutoSize = true;
+            this.Team5.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team5.Location = new System.Drawing.Point(150, 3);
+            this.Team5.Name = "Team5";
+            this.Team5.Size = new System.Drawing.Size(111, 23);
+            this.Team5.TabIndex = 2;
+            this.Team5.Text = "Team Name";
             // 
             // logo5
             // 
@@ -1119,17 +1119,17 @@
             this.logo5.TabIndex = 1;
             this.logo5.TabStop = false;
             // 
-            // panel5
+            // pane4
             // 
-            this.panel5.Controls.Add(this.label15);
-            this.panel5.Controls.Add(this.label16);
-            this.panel5.Controls.Add(this.label17);
-            this.panel5.Controls.Add(this.label18);
-            this.panel5.Controls.Add(this.logo4);
-            this.panel5.Location = new System.Drawing.Point(3, 326);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(361, 93);
-            this.panel5.TabIndex = 4;
+            this.pane4.Controls.Add(this.label15);
+            this.pane4.Controls.Add(this.label16);
+            this.pane4.Controls.Add(this.label17);
+            this.pane4.Controls.Add(this.Team4);
+            this.pane4.Controls.Add(this.logo4);
+            this.pane4.Location = new System.Drawing.Point(3, 326);
+            this.pane4.Name = "pane4";
+            this.pane4.Size = new System.Drawing.Size(361, 93);
+            this.pane4.TabIndex = 4;
             // 
             // label15
             // 
@@ -1161,15 +1161,15 @@
             this.label17.TabIndex = 3;
             this.label17.Text = "Roster";
             // 
-            // label18
+            // Team4
             // 
-            this.label18.AutoSize = true;
-            this.label18.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label18.Location = new System.Drawing.Point(150, 3);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(111, 23);
-            this.label18.TabIndex = 2;
-            this.label18.Text = "Team Name";
+            this.Team4.AutoSize = true;
+            this.Team4.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team4.Location = new System.Drawing.Point(150, 3);
+            this.Team4.Name = "Team4";
+            this.Team4.Size = new System.Drawing.Size(111, 23);
+            this.Team4.TabIndex = 2;
+            this.Team4.Text = "Team Name";
             // 
             // logo4
             // 
@@ -1180,17 +1180,17 @@
             this.logo4.TabIndex = 1;
             this.logo4.TabStop = false;
             // 
-            // panel4
+            // pane3
             // 
-            this.panel4.Controls.Add(this.label11);
-            this.panel4.Controls.Add(this.label12);
-            this.panel4.Controls.Add(this.label13);
-            this.panel4.Controls.Add(this.label14);
-            this.panel4.Controls.Add(this.logo3);
-            this.panel4.Location = new System.Drawing.Point(3, 222);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(361, 98);
-            this.panel4.TabIndex = 3;
+            this.pane3.Controls.Add(this.label11);
+            this.pane3.Controls.Add(this.label12);
+            this.pane3.Controls.Add(this.label13);
+            this.pane3.Controls.Add(this.Team3);
+            this.pane3.Controls.Add(this.logo3);
+            this.pane3.Location = new System.Drawing.Point(3, 222);
+            this.pane3.Name = "pane3";
+            this.pane3.Size = new System.Drawing.Size(361, 98);
+            this.pane3.TabIndex = 3;
             // 
             // label11
             // 
@@ -1222,15 +1222,15 @@
             this.label13.TabIndex = 3;
             this.label13.Text = "Roster";
             // 
-            // label14
+            // Team3
             // 
-            this.label14.AutoSize = true;
-            this.label14.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(150, 3);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(111, 23);
-            this.label14.TabIndex = 2;
-            this.label14.Text = "Team Name";
+            this.Team3.AutoSize = true;
+            this.Team3.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team3.Location = new System.Drawing.Point(150, 3);
+            this.Team3.Name = "Team3";
+            this.Team3.Size = new System.Drawing.Size(111, 23);
+            this.Team3.TabIndex = 2;
+            this.Team3.Text = "Team Name";
             // 
             // logo3
             // 
@@ -1241,17 +1241,17 @@
             this.logo3.TabIndex = 1;
             this.logo3.TabStop = false;
             // 
-            // panel3
+            // pane2
             // 
-            this.panel3.Controls.Add(this.label7);
-            this.panel3.Controls.Add(this.label8);
-            this.panel3.Controls.Add(this.label9);
-            this.panel3.Controls.Add(this.label10);
-            this.panel3.Controls.Add(this.logo2);
-            this.panel3.Location = new System.Drawing.Point(3, 120);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(361, 96);
-            this.panel3.TabIndex = 2;
+            this.pane2.Controls.Add(this.label7);
+            this.pane2.Controls.Add(this.label8);
+            this.pane2.Controls.Add(this.label9);
+            this.pane2.Controls.Add(this.Team2);
+            this.pane2.Controls.Add(this.logo2);
+            this.pane2.Location = new System.Drawing.Point(3, 120);
+            this.pane2.Name = "pane2";
+            this.pane2.Size = new System.Drawing.Size(361, 96);
+            this.pane2.TabIndex = 2;
             // 
             // label7
             // 
@@ -1283,15 +1283,15 @@
             this.label9.TabIndex = 3;
             this.label9.Text = "Roster";
             // 
-            // label10
+            // Team2
             // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(150, 3);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(111, 23);
-            this.label10.TabIndex = 2;
-            this.label10.Text = "Team Name";
+            this.Team2.AutoSize = true;
+            this.Team2.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team2.Location = new System.Drawing.Point(150, 3);
+            this.Team2.Name = "Team2";
+            this.Team2.Size = new System.Drawing.Size(111, 23);
+            this.Team2.TabIndex = 2;
+            this.Team2.Text = "Team Name";
             // 
             // logo2
             // 
@@ -1322,17 +1322,17 @@
             this.label2.TabIndex = 0;
             this.label2.Text = "Atlantic";
             // 
-            // panel2
+            // pane1
             // 
-            this.panel2.Controls.Add(this.label6);
-            this.panel2.Controls.Add(this.label5);
-            this.panel2.Controls.Add(this.label4);
-            this.panel2.Controls.Add(this.label3);
-            this.panel2.Controls.Add(this.logo1);
-            this.panel2.Location = new System.Drawing.Point(3, 30);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(361, 84);
-            this.panel2.TabIndex = 1;
+            this.pane1.Controls.Add(this.label6);
+            this.pane1.Controls.Add(this.label5);
+            this.pane1.Controls.Add(this.label4);
+            this.pane1.Controls.Add(this.Team1);
+            this.pane1.Controls.Add(this.logo1);
+            this.pane1.Location = new System.Drawing.Point(3, 30);
+            this.pane1.Name = "pane1";
+            this.pane1.Size = new System.Drawing.Size(361, 84);
+            this.pane1.TabIndex = 1;
             // 
             // label6
             // 
@@ -1364,15 +1364,16 @@
             this.label4.TabIndex = 3;
             this.label4.Text = "Roster";
             // 
-            // label3
+            // Team1
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(150, 3);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(111, 23);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "Team Name";
+            this.Team1.AutoSize = true;
+            this.Team1.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team1.Location = new System.Drawing.Point(150, 3);
+            this.Team1.Name = "Team1";
+            this.Team1.Size = new System.Drawing.Size(111, 23);
+            this.Team1.TabIndex = 2;
+            this.Team1.Text = "Team Name";
+            this.Team1.Click += new System.EventHandler(this.label3_Click);
             // 
             // logo1
             // 
@@ -1400,12 +1401,12 @@
             // 
             this.tableLayoutPanel5.ColumnCount = 1;
             this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel5.Controls.Add(this.panel25, 0, 5);
-            this.tableLayoutPanel5.Controls.Add(this.panel26, 0, 4);
-            this.tableLayoutPanel5.Controls.Add(this.panel27, 0, 3);
-            this.tableLayoutPanel5.Controls.Add(this.panel28, 0, 2);
+            this.tableLayoutPanel5.Controls.Add(this.pane25, 0, 5);
+            this.tableLayoutPanel5.Controls.Add(this.pane24, 0, 4);
+            this.tableLayoutPanel5.Controls.Add(this.pane23, 0, 3);
+            this.tableLayoutPanel5.Controls.Add(this.pane22, 0, 2);
             this.tableLayoutPanel5.Controls.Add(this.panel29, 0, 0);
-            this.tableLayoutPanel5.Controls.Add(this.panel30, 0, 1);
+            this.tableLayoutPanel5.Controls.Add(this.pane21, 0, 1);
             this.tableLayoutPanel5.Location = new System.Drawing.Point(426, 6);
             this.tableLayoutPanel5.Name = "tableLayoutPanel5";
             this.tableLayoutPanel5.RowCount = 6;
@@ -1419,17 +1420,17 @@
             this.tableLayoutPanel5.Size = new System.Drawing.Size(368, 523);
             this.tableLayoutPanel5.TabIndex = 4;
             // 
-            // panel25
+            // pane25
             // 
-            this.panel25.Controls.Add(this.label86);
-            this.panel25.Controls.Add(this.label87);
-            this.panel25.Controls.Add(this.label88);
-            this.panel25.Controls.Add(this.label89);
-            this.panel25.Controls.Add(this.logo25);
-            this.panel25.Location = new System.Drawing.Point(3, 425);
-            this.panel25.Name = "panel25";
-            this.panel25.Size = new System.Drawing.Size(361, 95);
-            this.panel25.TabIndex = 5;
+            this.pane25.Controls.Add(this.label86);
+            this.pane25.Controls.Add(this.label87);
+            this.pane25.Controls.Add(this.label88);
+            this.pane25.Controls.Add(this.Team25);
+            this.pane25.Controls.Add(this.logo25);
+            this.pane25.Location = new System.Drawing.Point(3, 425);
+            this.pane25.Name = "pane25";
+            this.pane25.Size = new System.Drawing.Size(361, 95);
+            this.pane25.TabIndex = 5;
             // 
             // label86
             // 
@@ -1461,15 +1462,15 @@
             this.label88.TabIndex = 3;
             this.label88.Text = "Roster";
             // 
-            // label89
+            // Team25
             // 
-            this.label89.AutoSize = true;
-            this.label89.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label89.Location = new System.Drawing.Point(150, 3);
-            this.label89.Name = "label89";
-            this.label89.Size = new System.Drawing.Size(111, 23);
-            this.label89.TabIndex = 2;
-            this.label89.Text = "Team Name";
+            this.Team25.AutoSize = true;
+            this.Team25.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team25.Location = new System.Drawing.Point(150, 3);
+            this.Team25.Name = "Team25";
+            this.Team25.Size = new System.Drawing.Size(111, 23);
+            this.Team25.TabIndex = 2;
+            this.Team25.Text = "Team Name";
             // 
             // logo25
             // 
@@ -1480,17 +1481,17 @@
             this.logo25.TabIndex = 1;
             this.logo25.TabStop = false;
             // 
-            // panel26
+            // pane24
             // 
-            this.panel26.Controls.Add(this.label90);
-            this.panel26.Controls.Add(this.label91);
-            this.panel26.Controls.Add(this.label92);
-            this.panel26.Controls.Add(this.label93);
-            this.panel26.Controls.Add(this.logo24);
-            this.panel26.Location = new System.Drawing.Point(3, 326);
-            this.panel26.Name = "panel26";
-            this.panel26.Size = new System.Drawing.Size(361, 93);
-            this.panel26.TabIndex = 4;
+            this.pane24.Controls.Add(this.label90);
+            this.pane24.Controls.Add(this.label91);
+            this.pane24.Controls.Add(this.label92);
+            this.pane24.Controls.Add(this.Team24);
+            this.pane24.Controls.Add(this.logo24);
+            this.pane24.Location = new System.Drawing.Point(3, 326);
+            this.pane24.Name = "pane24";
+            this.pane24.Size = new System.Drawing.Size(361, 93);
+            this.pane24.TabIndex = 4;
             // 
             // label90
             // 
@@ -1522,15 +1523,15 @@
             this.label92.TabIndex = 3;
             this.label92.Text = "Roster";
             // 
-            // label93
+            // Team24
             // 
-            this.label93.AutoSize = true;
-            this.label93.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label93.Location = new System.Drawing.Point(150, 3);
-            this.label93.Name = "label93";
-            this.label93.Size = new System.Drawing.Size(111, 23);
-            this.label93.TabIndex = 2;
-            this.label93.Text = "Team Name";
+            this.Team24.AutoSize = true;
+            this.Team24.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team24.Location = new System.Drawing.Point(150, 3);
+            this.Team24.Name = "Team24";
+            this.Team24.Size = new System.Drawing.Size(111, 23);
+            this.Team24.TabIndex = 2;
+            this.Team24.Text = "Team Name";
             // 
             // logo24
             // 
@@ -1541,17 +1542,17 @@
             this.logo24.TabIndex = 1;
             this.logo24.TabStop = false;
             // 
-            // panel27
+            // pane23
             // 
-            this.panel27.Controls.Add(this.label94);
-            this.panel27.Controls.Add(this.label95);
-            this.panel27.Controls.Add(this.label96);
-            this.panel27.Controls.Add(this.label97);
-            this.panel27.Controls.Add(this.logo23);
-            this.panel27.Location = new System.Drawing.Point(3, 222);
-            this.panel27.Name = "panel27";
-            this.panel27.Size = new System.Drawing.Size(361, 98);
-            this.panel27.TabIndex = 3;
+            this.pane23.Controls.Add(this.label94);
+            this.pane23.Controls.Add(this.label95);
+            this.pane23.Controls.Add(this.label96);
+            this.pane23.Controls.Add(this.Team23);
+            this.pane23.Controls.Add(this.logo23);
+            this.pane23.Location = new System.Drawing.Point(3, 222);
+            this.pane23.Name = "pane23";
+            this.pane23.Size = new System.Drawing.Size(361, 98);
+            this.pane23.TabIndex = 3;
             // 
             // label94
             // 
@@ -1583,15 +1584,15 @@
             this.label96.TabIndex = 3;
             this.label96.Text = "Roster";
             // 
-            // label97
+            // Team23
             // 
-            this.label97.AutoSize = true;
-            this.label97.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label97.Location = new System.Drawing.Point(150, 3);
-            this.label97.Name = "label97";
-            this.label97.Size = new System.Drawing.Size(111, 23);
-            this.label97.TabIndex = 2;
-            this.label97.Text = "Team Name";
+            this.Team23.AutoSize = true;
+            this.Team23.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team23.Location = new System.Drawing.Point(150, 3);
+            this.Team23.Name = "Team23";
+            this.Team23.Size = new System.Drawing.Size(111, 23);
+            this.Team23.TabIndex = 2;
+            this.Team23.Text = "Team Name";
             // 
             // logo23
             // 
@@ -1602,17 +1603,17 @@
             this.logo23.TabIndex = 1;
             this.logo23.TabStop = false;
             // 
-            // panel28
+            // pane22
             // 
-            this.panel28.Controls.Add(this.label98);
-            this.panel28.Controls.Add(this.label99);
-            this.panel28.Controls.Add(this.label100);
-            this.panel28.Controls.Add(this.label101);
-            this.panel28.Controls.Add(this.logo22);
-            this.panel28.Location = new System.Drawing.Point(3, 120);
-            this.panel28.Name = "panel28";
-            this.panel28.Size = new System.Drawing.Size(361, 96);
-            this.panel28.TabIndex = 2;
+            this.pane22.Controls.Add(this.label98);
+            this.pane22.Controls.Add(this.label99);
+            this.pane22.Controls.Add(this.label100);
+            this.pane22.Controls.Add(this.Team22);
+            this.pane22.Controls.Add(this.logo22);
+            this.pane22.Location = new System.Drawing.Point(3, 120);
+            this.pane22.Name = "pane22";
+            this.pane22.Size = new System.Drawing.Size(361, 96);
+            this.pane22.TabIndex = 2;
             // 
             // label98
             // 
@@ -1644,15 +1645,15 @@
             this.label100.TabIndex = 3;
             this.label100.Text = "Roster";
             // 
-            // label101
+            // Team22
             // 
-            this.label101.AutoSize = true;
-            this.label101.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label101.Location = new System.Drawing.Point(150, 3);
-            this.label101.Name = "label101";
-            this.label101.Size = new System.Drawing.Size(111, 23);
-            this.label101.TabIndex = 2;
-            this.label101.Text = "Team Name";
+            this.Team22.AutoSize = true;
+            this.Team22.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team22.Location = new System.Drawing.Point(150, 3);
+            this.Team22.Name = "Team22";
+            this.Team22.Size = new System.Drawing.Size(111, 23);
+            this.Team22.TabIndex = 2;
+            this.Team22.Text = "Team Name";
             // 
             // logo22
             // 
@@ -1683,17 +1684,17 @@
             this.label102.TabIndex = 0;
             this.label102.Text = "Pacific";
             // 
-            // panel30
+            // pane21
             // 
-            this.panel30.Controls.Add(this.label103);
-            this.panel30.Controls.Add(this.label104);
-            this.panel30.Controls.Add(this.label105);
-            this.panel30.Controls.Add(this.label106);
-            this.panel30.Controls.Add(this.logo21);
-            this.panel30.Location = new System.Drawing.Point(3, 30);
-            this.panel30.Name = "panel30";
-            this.panel30.Size = new System.Drawing.Size(361, 84);
-            this.panel30.TabIndex = 1;
+            this.pane21.Controls.Add(this.label103);
+            this.pane21.Controls.Add(this.label104);
+            this.pane21.Controls.Add(this.label105);
+            this.pane21.Controls.Add(this.Team21);
+            this.pane21.Controls.Add(this.logo21);
+            this.pane21.Location = new System.Drawing.Point(3, 30);
+            this.pane21.Name = "pane21";
+            this.pane21.Size = new System.Drawing.Size(361, 84);
+            this.pane21.TabIndex = 1;
             // 
             // label103
             // 
@@ -1725,15 +1726,15 @@
             this.label105.TabIndex = 3;
             this.label105.Text = "Roster";
             // 
-            // label106
+            // Team21
             // 
-            this.label106.AutoSize = true;
-            this.label106.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label106.Location = new System.Drawing.Point(150, 3);
-            this.label106.Name = "label106";
-            this.label106.Size = new System.Drawing.Size(111, 23);
-            this.label106.TabIndex = 2;
-            this.label106.Text = "Team Name";
+            this.Team21.AutoSize = true;
+            this.Team21.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team21.Location = new System.Drawing.Point(150, 3);
+            this.Team21.Name = "Team21";
+            this.Team21.Size = new System.Drawing.Size(111, 23);
+            this.Team21.TabIndex = 2;
+            this.Team21.Text = "Team Name";
             // 
             // logo21
             // 
@@ -1748,12 +1749,12 @@
             // 
             this.tableLayoutPanel7.ColumnCount = 1;
             this.tableLayoutPanel7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel7.Controls.Add(this.panel37, 0, 5);
-            this.tableLayoutPanel7.Controls.Add(this.panel38, 0, 4);
-            this.tableLayoutPanel7.Controls.Add(this.panel39, 0, 3);
-            this.tableLayoutPanel7.Controls.Add(this.panel40, 0, 2);
+            this.tableLayoutPanel7.Controls.Add(this.pane20, 0, 5);
+            this.tableLayoutPanel7.Controls.Add(this.pane19, 0, 4);
+            this.tableLayoutPanel7.Controls.Add(this.pane18, 0, 3);
+            this.tableLayoutPanel7.Controls.Add(this.pane17, 0, 2);
             this.tableLayoutPanel7.Controls.Add(this.panel41, 0, 0);
-            this.tableLayoutPanel7.Controls.Add(this.panel42, 0, 1);
+            this.tableLayoutPanel7.Controls.Add(this.pane16, 0, 1);
             this.tableLayoutPanel7.Location = new System.Drawing.Point(6, 6);
             this.tableLayoutPanel7.Name = "tableLayoutPanel7";
             this.tableLayoutPanel7.RowCount = 6;
@@ -1767,17 +1768,17 @@
             this.tableLayoutPanel7.Size = new System.Drawing.Size(368, 523);
             this.tableLayoutPanel7.TabIndex = 3;
             // 
-            // panel37
+            // pane20
             // 
-            this.panel37.Controls.Add(this.label128);
-            this.panel37.Controls.Add(this.label129);
-            this.panel37.Controls.Add(this.label130);
-            this.panel37.Controls.Add(this.label131);
-            this.panel37.Controls.Add(this.logo20);
-            this.panel37.Location = new System.Drawing.Point(3, 425);
-            this.panel37.Name = "panel37";
-            this.panel37.Size = new System.Drawing.Size(361, 95);
-            this.panel37.TabIndex = 5;
+            this.pane20.Controls.Add(this.label128);
+            this.pane20.Controls.Add(this.label129);
+            this.pane20.Controls.Add(this.label130);
+            this.pane20.Controls.Add(this.Team20);
+            this.pane20.Controls.Add(this.logo20);
+            this.pane20.Location = new System.Drawing.Point(3, 425);
+            this.pane20.Name = "pane20";
+            this.pane20.Size = new System.Drawing.Size(361, 80);
+            this.pane20.TabIndex = 5;
             // 
             // label128
             // 
@@ -1809,15 +1810,15 @@
             this.label130.TabIndex = 3;
             this.label130.Text = "Roster";
             // 
-            // label131
+            // Team20
             // 
-            this.label131.AutoSize = true;
-            this.label131.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label131.Location = new System.Drawing.Point(150, 3);
-            this.label131.Name = "label131";
-            this.label131.Size = new System.Drawing.Size(111, 23);
-            this.label131.TabIndex = 2;
-            this.label131.Text = "Team Name";
+            this.Team20.AutoSize = true;
+            this.Team20.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team20.Location = new System.Drawing.Point(150, 3);
+            this.Team20.Name = "Team20";
+            this.Team20.Size = new System.Drawing.Size(111, 23);
+            this.Team20.TabIndex = 2;
+            this.Team20.Text = "Team Name";
             // 
             // logo20
             // 
@@ -1828,17 +1829,17 @@
             this.logo20.TabIndex = 1;
             this.logo20.TabStop = false;
             // 
-            // panel38
+            // pane19
             // 
-            this.panel38.Controls.Add(this.label132);
-            this.panel38.Controls.Add(this.label133);
-            this.panel38.Controls.Add(this.label134);
-            this.panel38.Controls.Add(this.label135);
-            this.panel38.Controls.Add(this.logo19);
-            this.panel38.Location = new System.Drawing.Point(3, 326);
-            this.panel38.Name = "panel38";
-            this.panel38.Size = new System.Drawing.Size(361, 93);
-            this.panel38.TabIndex = 4;
+            this.pane19.Controls.Add(this.label132);
+            this.pane19.Controls.Add(this.label133);
+            this.pane19.Controls.Add(this.label134);
+            this.pane19.Controls.Add(this.Team19);
+            this.pane19.Controls.Add(this.logo19);
+            this.pane19.Location = new System.Drawing.Point(3, 326);
+            this.pane19.Name = "pane19";
+            this.pane19.Size = new System.Drawing.Size(361, 93);
+            this.pane19.TabIndex = 4;
             // 
             // label132
             // 
@@ -1870,15 +1871,15 @@
             this.label134.TabIndex = 3;
             this.label134.Text = "Roster";
             // 
-            // label135
+            // Team19
             // 
-            this.label135.AutoSize = true;
-            this.label135.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label135.Location = new System.Drawing.Point(150, 3);
-            this.label135.Name = "label135";
-            this.label135.Size = new System.Drawing.Size(111, 23);
-            this.label135.TabIndex = 2;
-            this.label135.Text = "Team Name";
+            this.Team19.AutoSize = true;
+            this.Team19.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team19.Location = new System.Drawing.Point(150, 3);
+            this.Team19.Name = "Team19";
+            this.Team19.Size = new System.Drawing.Size(111, 23);
+            this.Team19.TabIndex = 2;
+            this.Team19.Text = "Team Name";
             // 
             // logo19
             // 
@@ -1889,17 +1890,17 @@
             this.logo19.TabIndex = 1;
             this.logo19.TabStop = false;
             // 
-            // panel39
+            // pane18
             // 
-            this.panel39.Controls.Add(this.label136);
-            this.panel39.Controls.Add(this.label137);
-            this.panel39.Controls.Add(this.label138);
-            this.panel39.Controls.Add(this.label139);
-            this.panel39.Controls.Add(this.logo18);
-            this.panel39.Location = new System.Drawing.Point(3, 222);
-            this.panel39.Name = "panel39";
-            this.panel39.Size = new System.Drawing.Size(361, 98);
-            this.panel39.TabIndex = 3;
+            this.pane18.Controls.Add(this.label136);
+            this.pane18.Controls.Add(this.label137);
+            this.pane18.Controls.Add(this.label138);
+            this.pane18.Controls.Add(this.Team18);
+            this.pane18.Controls.Add(this.logo18);
+            this.pane18.Location = new System.Drawing.Point(3, 222);
+            this.pane18.Name = "pane18";
+            this.pane18.Size = new System.Drawing.Size(361, 98);
+            this.pane18.TabIndex = 3;
             // 
             // label136
             // 
@@ -1931,15 +1932,15 @@
             this.label138.TabIndex = 3;
             this.label138.Text = "Roster";
             // 
-            // label139
+            // Team18
             // 
-            this.label139.AutoSize = true;
-            this.label139.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label139.Location = new System.Drawing.Point(150, 3);
-            this.label139.Name = "label139";
-            this.label139.Size = new System.Drawing.Size(111, 23);
-            this.label139.TabIndex = 2;
-            this.label139.Text = "Team Name";
+            this.Team18.AutoSize = true;
+            this.Team18.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team18.Location = new System.Drawing.Point(150, 3);
+            this.Team18.Name = "Team18";
+            this.Team18.Size = new System.Drawing.Size(111, 23);
+            this.Team18.TabIndex = 2;
+            this.Team18.Text = "Team Name";
             // 
             // logo18
             // 
@@ -1950,17 +1951,17 @@
             this.logo18.TabIndex = 1;
             this.logo18.TabStop = false;
             // 
-            // panel40
+            // pane17
             // 
-            this.panel40.Controls.Add(this.label140);
-            this.panel40.Controls.Add(this.label141);
-            this.panel40.Controls.Add(this.label142);
-            this.panel40.Controls.Add(this.label143);
-            this.panel40.Controls.Add(this.logo17);
-            this.panel40.Location = new System.Drawing.Point(3, 120);
-            this.panel40.Name = "panel40";
-            this.panel40.Size = new System.Drawing.Size(361, 96);
-            this.panel40.TabIndex = 2;
+            this.pane17.Controls.Add(this.label140);
+            this.pane17.Controls.Add(this.label141);
+            this.pane17.Controls.Add(this.label142);
+            this.pane17.Controls.Add(this.Team17);
+            this.pane17.Controls.Add(this.logo17);
+            this.pane17.Location = new System.Drawing.Point(3, 120);
+            this.pane17.Name = "pane17";
+            this.pane17.Size = new System.Drawing.Size(361, 96);
+            this.pane17.TabIndex = 2;
             // 
             // label140
             // 
@@ -1992,15 +1993,15 @@
             this.label142.TabIndex = 3;
             this.label142.Text = "Roster";
             // 
-            // label143
+            // Team17
             // 
-            this.label143.AutoSize = true;
-            this.label143.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label143.Location = new System.Drawing.Point(150, 3);
-            this.label143.Name = "label143";
-            this.label143.Size = new System.Drawing.Size(111, 23);
-            this.label143.TabIndex = 2;
-            this.label143.Text = "Team Name";
+            this.Team17.AutoSize = true;
+            this.Team17.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team17.Location = new System.Drawing.Point(150, 3);
+            this.Team17.Name = "Team17";
+            this.Team17.Size = new System.Drawing.Size(111, 23);
+            this.Team17.TabIndex = 2;
+            this.Team17.Text = "Team Name";
             // 
             // logo17
             // 
@@ -2031,17 +2032,17 @@
             this.label144.TabIndex = 0;
             this.label144.Text = "Northwest";
             // 
-            // panel42
+            // pane16
             // 
-            this.panel42.Controls.Add(this.label145);
-            this.panel42.Controls.Add(this.label146);
-            this.panel42.Controls.Add(this.label147);
-            this.panel42.Controls.Add(this.label148);
-            this.panel42.Controls.Add(this.logo16);
-            this.panel42.Location = new System.Drawing.Point(3, 30);
-            this.panel42.Name = "panel42";
-            this.panel42.Size = new System.Drawing.Size(361, 84);
-            this.panel42.TabIndex = 1;
+            this.pane16.Controls.Add(this.label145);
+            this.pane16.Controls.Add(this.label146);
+            this.pane16.Controls.Add(this.label147);
+            this.pane16.Controls.Add(this.Team16);
+            this.pane16.Controls.Add(this.logo16);
+            this.pane16.Location = new System.Drawing.Point(3, 30);
+            this.pane16.Name = "pane16";
+            this.pane16.Size = new System.Drawing.Size(361, 84);
+            this.pane16.TabIndex = 1;
             // 
             // label145
             // 
@@ -2073,15 +2074,15 @@
             this.label147.TabIndex = 3;
             this.label147.Text = "Roster";
             // 
-            // label148
+            // Team16
             // 
-            this.label148.AutoSize = true;
-            this.label148.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label148.Location = new System.Drawing.Point(150, 3);
-            this.label148.Name = "label148";
-            this.label148.Size = new System.Drawing.Size(111, 23);
-            this.label148.TabIndex = 2;
-            this.label148.Text = "Team Name";
+            this.Team16.AutoSize = true;
+            this.Team16.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team16.Location = new System.Drawing.Point(150, 3);
+            this.Team16.Name = "Team16";
+            this.Team16.Size = new System.Drawing.Size(111, 23);
+            this.Team16.TabIndex = 2;
+            this.Team16.Text = "Team Name";
             // 
             // logo16
             // 
@@ -2096,12 +2097,12 @@
             // 
             this.tableLayoutPanel4.ColumnCount = 1;
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel4.Controls.Add(this.panel19, 0, 5);
-            this.tableLayoutPanel4.Controls.Add(this.panel20, 0, 4);
-            this.tableLayoutPanel4.Controls.Add(this.panel21, 0, 3);
-            this.tableLayoutPanel4.Controls.Add(this.panel22, 0, 2);
+            this.tableLayoutPanel4.Controls.Add(this.pane30, 0, 5);
+            this.tableLayoutPanel4.Controls.Add(this.pane29, 0, 4);
+            this.tableLayoutPanel4.Controls.Add(this.pane28, 0, 3);
+            this.tableLayoutPanel4.Controls.Add(this.pane27, 0, 2);
             this.tableLayoutPanel4.Controls.Add(this.panel23, 0, 0);
-            this.tableLayoutPanel4.Controls.Add(this.panel24, 0, 1);
+            this.tableLayoutPanel4.Controls.Add(this.pane26, 0, 1);
             this.tableLayoutPanel4.Location = new System.Drawing.Point(822, 12);
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
             this.tableLayoutPanel4.RowCount = 6;
@@ -2115,17 +2116,17 @@
             this.tableLayoutPanel4.Size = new System.Drawing.Size(368, 523);
             this.tableLayoutPanel4.TabIndex = 1;
             // 
-            // panel19
+            // pane30
             // 
-            this.panel19.Controls.Add(this.label65);
-            this.panel19.Controls.Add(this.label66);
-            this.panel19.Controls.Add(this.label67);
-            this.panel19.Controls.Add(this.label68);
-            this.panel19.Controls.Add(this.logo30);
-            this.panel19.Location = new System.Drawing.Point(3, 425);
-            this.panel19.Name = "panel19";
-            this.panel19.Size = new System.Drawing.Size(361, 95);
-            this.panel19.TabIndex = 5;
+            this.pane30.Controls.Add(this.label65);
+            this.pane30.Controls.Add(this.label66);
+            this.pane30.Controls.Add(this.label67);
+            this.pane30.Controls.Add(this.Team30);
+            this.pane30.Controls.Add(this.logo30);
+            this.pane30.Location = new System.Drawing.Point(3, 425);
+            this.pane30.Name = "pane30";
+            this.pane30.Size = new System.Drawing.Size(361, 74);
+            this.pane30.TabIndex = 5;
             // 
             // label65
             // 
@@ -2157,15 +2158,15 @@
             this.label67.TabIndex = 3;
             this.label67.Text = "Roster";
             // 
-            // label68
+            // Team30
             // 
-            this.label68.AutoSize = true;
-            this.label68.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label68.Location = new System.Drawing.Point(150, 3);
-            this.label68.Name = "label68";
-            this.label68.Size = new System.Drawing.Size(111, 23);
-            this.label68.TabIndex = 2;
-            this.label68.Text = "Team Name";
+            this.Team30.AutoSize = true;
+            this.Team30.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team30.Location = new System.Drawing.Point(150, 3);
+            this.Team30.Name = "Team30";
+            this.Team30.Size = new System.Drawing.Size(111, 23);
+            this.Team30.TabIndex = 2;
+            this.Team30.Text = "Team Name";
             // 
             // logo30
             // 
@@ -2176,17 +2177,17 @@
             this.logo30.TabIndex = 1;
             this.logo30.TabStop = false;
             // 
-            // panel20
+            // pane29
             // 
-            this.panel20.Controls.Add(this.label69);
-            this.panel20.Controls.Add(this.label70);
-            this.panel20.Controls.Add(this.label71);
-            this.panel20.Controls.Add(this.label72);
-            this.panel20.Controls.Add(this.logo29);
-            this.panel20.Location = new System.Drawing.Point(3, 326);
-            this.panel20.Name = "panel20";
-            this.panel20.Size = new System.Drawing.Size(361, 93);
-            this.panel20.TabIndex = 4;
+            this.pane29.Controls.Add(this.label69);
+            this.pane29.Controls.Add(this.label70);
+            this.pane29.Controls.Add(this.label71);
+            this.pane29.Controls.Add(this.Team29);
+            this.pane29.Controls.Add(this.logo29);
+            this.pane29.Location = new System.Drawing.Point(3, 326);
+            this.pane29.Name = "pane29";
+            this.pane29.Size = new System.Drawing.Size(361, 93);
+            this.pane29.TabIndex = 4;
             // 
             // label69
             // 
@@ -2218,15 +2219,15 @@
             this.label71.TabIndex = 3;
             this.label71.Text = "Roster";
             // 
-            // label72
+            // Team29
             // 
-            this.label72.AutoSize = true;
-            this.label72.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label72.Location = new System.Drawing.Point(150, 3);
-            this.label72.Name = "label72";
-            this.label72.Size = new System.Drawing.Size(111, 23);
-            this.label72.TabIndex = 2;
-            this.label72.Text = "Team Name";
+            this.Team29.AutoSize = true;
+            this.Team29.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team29.Location = new System.Drawing.Point(150, 3);
+            this.Team29.Name = "Team29";
+            this.Team29.Size = new System.Drawing.Size(111, 23);
+            this.Team29.TabIndex = 2;
+            this.Team29.Text = "Team Name";
             // 
             // logo29
             // 
@@ -2237,17 +2238,17 @@
             this.logo29.TabIndex = 1;
             this.logo29.TabStop = false;
             // 
-            // panel21
+            // pane28
             // 
-            this.panel21.Controls.Add(this.label73);
-            this.panel21.Controls.Add(this.label74);
-            this.panel21.Controls.Add(this.label75);
-            this.panel21.Controls.Add(this.label76);
-            this.panel21.Controls.Add(this.logo28);
-            this.panel21.Location = new System.Drawing.Point(3, 222);
-            this.panel21.Name = "panel21";
-            this.panel21.Size = new System.Drawing.Size(361, 98);
-            this.panel21.TabIndex = 3;
+            this.pane28.Controls.Add(this.label73);
+            this.pane28.Controls.Add(this.label74);
+            this.pane28.Controls.Add(this.label75);
+            this.pane28.Controls.Add(this.Team28);
+            this.pane28.Controls.Add(this.logo28);
+            this.pane28.Location = new System.Drawing.Point(3, 222);
+            this.pane28.Name = "pane28";
+            this.pane28.Size = new System.Drawing.Size(361, 98);
+            this.pane28.TabIndex = 3;
             // 
             // label73
             // 
@@ -2279,15 +2280,15 @@
             this.label75.TabIndex = 3;
             this.label75.Text = "Roster";
             // 
-            // label76
+            // Team28
             // 
-            this.label76.AutoSize = true;
-            this.label76.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label76.Location = new System.Drawing.Point(150, 3);
-            this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(111, 23);
-            this.label76.TabIndex = 2;
-            this.label76.Text = "Team Name";
+            this.Team28.AutoSize = true;
+            this.Team28.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team28.Location = new System.Drawing.Point(150, 3);
+            this.Team28.Name = "Team28";
+            this.Team28.Size = new System.Drawing.Size(111, 23);
+            this.Team28.TabIndex = 2;
+            this.Team28.Text = "Team Name";
             // 
             // logo28
             // 
@@ -2298,17 +2299,17 @@
             this.logo28.TabIndex = 1;
             this.logo28.TabStop = false;
             // 
-            // panel22
+            // pane27
             // 
-            this.panel22.Controls.Add(this.label77);
-            this.panel22.Controls.Add(this.label78);
-            this.panel22.Controls.Add(this.label79);
-            this.panel22.Controls.Add(this.label80);
-            this.panel22.Controls.Add(this.logo27);
-            this.panel22.Location = new System.Drawing.Point(3, 120);
-            this.panel22.Name = "panel22";
-            this.panel22.Size = new System.Drawing.Size(361, 96);
-            this.panel22.TabIndex = 2;
+            this.pane27.Controls.Add(this.label77);
+            this.pane27.Controls.Add(this.label78);
+            this.pane27.Controls.Add(this.label79);
+            this.pane27.Controls.Add(this.Team27);
+            this.pane27.Controls.Add(this.logo27);
+            this.pane27.Location = new System.Drawing.Point(3, 120);
+            this.pane27.Name = "pane27";
+            this.pane27.Size = new System.Drawing.Size(361, 96);
+            this.pane27.TabIndex = 2;
             // 
             // label77
             // 
@@ -2340,15 +2341,15 @@
             this.label79.TabIndex = 3;
             this.label79.Text = "Roster";
             // 
-            // label80
+            // Team27
             // 
-            this.label80.AutoSize = true;
-            this.label80.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label80.Location = new System.Drawing.Point(150, 3);
-            this.label80.Name = "label80";
-            this.label80.Size = new System.Drawing.Size(111, 23);
-            this.label80.TabIndex = 2;
-            this.label80.Text = "Team Name";
+            this.Team27.AutoSize = true;
+            this.Team27.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team27.Location = new System.Drawing.Point(150, 3);
+            this.Team27.Name = "Team27";
+            this.Team27.Size = new System.Drawing.Size(111, 23);
+            this.Team27.TabIndex = 2;
+            this.Team27.Text = "Team Name";
             // 
             // logo27
             // 
@@ -2379,17 +2380,17 @@
             this.label81.TabIndex = 0;
             this.label81.Text = "Atlantic";
             // 
-            // panel24
+            // pane26
             // 
-            this.panel24.Controls.Add(this.label82);
-            this.panel24.Controls.Add(this.label83);
-            this.panel24.Controls.Add(this.label84);
-            this.panel24.Controls.Add(this.label85);
-            this.panel24.Controls.Add(this.logo26);
-            this.panel24.Location = new System.Drawing.Point(3, 30);
-            this.panel24.Name = "panel24";
-            this.panel24.Size = new System.Drawing.Size(361, 84);
-            this.panel24.TabIndex = 1;
+            this.pane26.Controls.Add(this.label82);
+            this.pane26.Controls.Add(this.label83);
+            this.pane26.Controls.Add(this.label84);
+            this.pane26.Controls.Add(this.Team26);
+            this.pane26.Controls.Add(this.logo26);
+            this.pane26.Location = new System.Drawing.Point(3, 30);
+            this.pane26.Name = "pane26";
+            this.pane26.Size = new System.Drawing.Size(361, 84);
+            this.pane26.TabIndex = 1;
             // 
             // label82
             // 
@@ -2421,15 +2422,15 @@
             this.label84.TabIndex = 3;
             this.label84.Text = "Roster";
             // 
-            // label85
+            // Team26
             // 
-            this.label85.AutoSize = true;
-            this.label85.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label85.Location = new System.Drawing.Point(150, 3);
-            this.label85.Name = "label85";
-            this.label85.Size = new System.Drawing.Size(111, 23);
-            this.label85.TabIndex = 2;
-            this.label85.Text = "Team Name";
+            this.Team26.AutoSize = true;
+            this.Team26.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Team26.Location = new System.Drawing.Point(150, 3);
+            this.Team26.Name = "Team26";
+            this.Team26.Size = new System.Drawing.Size(111, 23);
+            this.Team26.TabIndex = 2;
+            this.Team26.Text = "Team Name";
             // 
             // logo26
             // 
@@ -2453,113 +2454,113 @@
             this.Eastern.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tableLayoutPanel3.ResumeLayout(false);
-            this.panel13.ResumeLayout(false);
-            this.panel13.PerformLayout();
+            this.pane10.ResumeLayout(false);
+            this.pane10.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo10)).EndInit();
-            this.panel14.ResumeLayout(false);
-            this.panel14.PerformLayout();
+            this.pane9.ResumeLayout(false);
+            this.pane9.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo9)).EndInit();
-            this.panel15.ResumeLayout(false);
-            this.panel15.PerformLayout();
+            this.pane8.ResumeLayout(false);
+            this.pane8.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo8)).EndInit();
-            this.panel16.ResumeLayout(false);
-            this.panel16.PerformLayout();
+            this.pane7.ResumeLayout(false);
+            this.pane7.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo7)).EndInit();
             this.panel17.ResumeLayout(false);
             this.panel17.PerformLayout();
-            this.panel18.ResumeLayout(false);
-            this.panel18.PerformLayout();
+            this.pane6.ResumeLayout(false);
+            this.pane6.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo6)).EndInit();
             this.tableLayoutPanel2.ResumeLayout(false);
-            this.panel7.ResumeLayout(false);
-            this.panel7.PerformLayout();
+            this.pane15.ResumeLayout(false);
+            this.pane15.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo15)).EndInit();
-            this.panel8.ResumeLayout(false);
-            this.panel8.PerformLayout();
+            this.pane14.ResumeLayout(false);
+            this.pane14.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo14)).EndInit();
-            this.panel9.ResumeLayout(false);
-            this.panel9.PerformLayout();
+            this.pane13.ResumeLayout(false);
+            this.pane13.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo13)).EndInit();
-            this.panel10.ResumeLayout(false);
-            this.panel10.PerformLayout();
+            this.pane12.ResumeLayout(false);
+            this.pane12.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo12)).EndInit();
             this.panel11.ResumeLayout(false);
             this.panel11.PerformLayout();
-            this.panel12.ResumeLayout(false);
-            this.panel12.PerformLayout();
+            this.pane11.ResumeLayout(false);
+            this.pane11.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo11)).EndInit();
             this.tableLayoutPanel1.ResumeLayout(false);
-            this.panel6.ResumeLayout(false);
-            this.panel6.PerformLayout();
+            this.pane5.ResumeLayout(false);
+            this.pane5.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo5)).EndInit();
-            this.panel5.ResumeLayout(false);
-            this.panel5.PerformLayout();
+            this.pane4.ResumeLayout(false);
+            this.pane4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo4)).EndInit();
-            this.panel4.ResumeLayout(false);
-            this.panel4.PerformLayout();
+            this.pane3.ResumeLayout(false);
+            this.pane3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo3)).EndInit();
-            this.panel3.ResumeLayout(false);
-            this.panel3.PerformLayout();
+            this.pane2.ResumeLayout(false);
+            this.pane2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo2)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            this.panel2.ResumeLayout(false);
-            this.panel2.PerformLayout();
+            this.pane1.ResumeLayout(false);
+            this.pane1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo1)).EndInit();
             this.tabPage2.ResumeLayout(false);
             this.tableLayoutPanel5.ResumeLayout(false);
-            this.panel25.ResumeLayout(false);
-            this.panel25.PerformLayout();
+            this.pane25.ResumeLayout(false);
+            this.pane25.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo25)).EndInit();
-            this.panel26.ResumeLayout(false);
-            this.panel26.PerformLayout();
+            this.pane24.ResumeLayout(false);
+            this.pane24.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo24)).EndInit();
-            this.panel27.ResumeLayout(false);
-            this.panel27.PerformLayout();
+            this.pane23.ResumeLayout(false);
+            this.pane23.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo23)).EndInit();
-            this.panel28.ResumeLayout(false);
-            this.panel28.PerformLayout();
+            this.pane22.ResumeLayout(false);
+            this.pane22.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo22)).EndInit();
             this.panel29.ResumeLayout(false);
             this.panel29.PerformLayout();
-            this.panel30.ResumeLayout(false);
-            this.panel30.PerformLayout();
+            this.pane21.ResumeLayout(false);
+            this.pane21.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo21)).EndInit();
             this.tableLayoutPanel7.ResumeLayout(false);
-            this.panel37.ResumeLayout(false);
-            this.panel37.PerformLayout();
+            this.pane20.ResumeLayout(false);
+            this.pane20.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo20)).EndInit();
-            this.panel38.ResumeLayout(false);
-            this.panel38.PerformLayout();
+            this.pane19.ResumeLayout(false);
+            this.pane19.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo19)).EndInit();
-            this.panel39.ResumeLayout(false);
-            this.panel39.PerformLayout();
+            this.pane18.ResumeLayout(false);
+            this.pane18.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo18)).EndInit();
-            this.panel40.ResumeLayout(false);
-            this.panel40.PerformLayout();
+            this.pane17.ResumeLayout(false);
+            this.pane17.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo17)).EndInit();
             this.panel41.ResumeLayout(false);
             this.panel41.PerformLayout();
-            this.panel42.ResumeLayout(false);
-            this.panel42.PerformLayout();
+            this.pane16.ResumeLayout(false);
+            this.pane16.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo16)).EndInit();
             this.tableLayoutPanel4.ResumeLayout(false);
-            this.panel19.ResumeLayout(false);
-            this.panel19.PerformLayout();
+            this.pane30.ResumeLayout(false);
+            this.pane30.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo30)).EndInit();
-            this.panel20.ResumeLayout(false);
-            this.panel20.PerformLayout();
+            this.pane29.ResumeLayout(false);
+            this.pane29.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo29)).EndInit();
-            this.panel21.ResumeLayout(false);
-            this.panel21.PerformLayout();
+            this.pane28.ResumeLayout(false);
+            this.pane28.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo28)).EndInit();
-            this.panel22.ResumeLayout(false);
-            this.panel22.PerformLayout();
+            this.pane27.ResumeLayout(false);
+            this.pane27.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo27)).EndInit();
             this.panel23.ResumeLayout(false);
             this.panel23.PerformLayout();
-            this.panel24.ResumeLayout(false);
-            this.panel24.PerformLayout();
+            this.pane26.ResumeLayout(false);
+            this.pane26.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo26)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -2572,203 +2573,203 @@
         private System.Windows.Forms.TabControl Eastern;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
-        private System.Windows.Forms.Panel panel13;
+        private System.Windows.Forms.Panel pane10;
         private System.Windows.Forms.Label label44;
         private System.Windows.Forms.Label label45;
         private System.Windows.Forms.Label label46;
-        private System.Windows.Forms.Label label47;
+        private System.Windows.Forms.Label Team10;
         private System.Windows.Forms.PictureBox logo10;
-        private System.Windows.Forms.Panel panel14;
+        private System.Windows.Forms.Panel pane9;
         private System.Windows.Forms.Label label48;
         private System.Windows.Forms.Label label49;
         private System.Windows.Forms.Label label50;
-        private System.Windows.Forms.Label label51;
+        private System.Windows.Forms.Label Team9;
         private System.Windows.Forms.PictureBox logo9;
-        private System.Windows.Forms.Panel panel15;
+        private System.Windows.Forms.Panel pane8;
         private System.Windows.Forms.Label label52;
         private System.Windows.Forms.Label label53;
         private System.Windows.Forms.Label label54;
-        private System.Windows.Forms.Label label55;
+        private System.Windows.Forms.Label Team8;
         private System.Windows.Forms.PictureBox logo8;
-        private System.Windows.Forms.Panel panel16;
+        private System.Windows.Forms.Panel pane7;
         private System.Windows.Forms.Label label56;
         private System.Windows.Forms.Label label57;
         private System.Windows.Forms.Label label58;
-        private System.Windows.Forms.Label label59;
+        private System.Windows.Forms.Label Team7;
         private System.Windows.Forms.PictureBox logo7;
         private System.Windows.Forms.Panel panel17;
         private System.Windows.Forms.Label label60;
-        private System.Windows.Forms.Panel panel18;
+        private System.Windows.Forms.Panel pane6;
         private System.Windows.Forms.Label label61;
         private System.Windows.Forms.Label label62;
         private System.Windows.Forms.Label label63;
-        private System.Windows.Forms.Label label64;
+        private System.Windows.Forms.Label Team6;
         private System.Windows.Forms.PictureBox logo6;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
-        private System.Windows.Forms.Panel panel7;
+        private System.Windows.Forms.Panel pane15;
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.Label label24;
         private System.Windows.Forms.Label label25;
-        private System.Windows.Forms.Label label26;
+        private System.Windows.Forms.Label Team15;
         private System.Windows.Forms.PictureBox logo15;
-        private System.Windows.Forms.Panel panel8;
+        private System.Windows.Forms.Panel pane14;
         private System.Windows.Forms.Label label27;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Label label29;
-        private System.Windows.Forms.Label label30;
+        private System.Windows.Forms.Label Team14;
         private System.Windows.Forms.PictureBox logo14;
-        private System.Windows.Forms.Panel panel9;
+        private System.Windows.Forms.Panel pane13;
         private System.Windows.Forms.Label label31;
         private System.Windows.Forms.Label label32;
         private System.Windows.Forms.Label label33;
-        private System.Windows.Forms.Label label34;
+        private System.Windows.Forms.Label Team13;
         private System.Windows.Forms.PictureBox logo13;
-        private System.Windows.Forms.Panel panel10;
+        private System.Windows.Forms.Panel pane12;
         private System.Windows.Forms.Label label35;
         private System.Windows.Forms.Label label36;
         private System.Windows.Forms.Label label37;
-        private System.Windows.Forms.Label label38;
+        private System.Windows.Forms.Label Team12;
         private System.Windows.Forms.PictureBox logo12;
         private System.Windows.Forms.Panel panel11;
         private System.Windows.Forms.Label label39;
-        private System.Windows.Forms.Panel panel12;
+        private System.Windows.Forms.Panel pane11;
         private System.Windows.Forms.Label label40;
         private System.Windows.Forms.Label label41;
         private System.Windows.Forms.Label label42;
-        private System.Windows.Forms.Label label43;
+        private System.Windows.Forms.Label Team11;
         private System.Windows.Forms.PictureBox logo11;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
-        private System.Windows.Forms.Panel panel6;
+        private System.Windows.Forms.Panel pane5;
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.Label Team5;
         private System.Windows.Forms.PictureBox logo5;
-        private System.Windows.Forms.Panel panel5;
+        private System.Windows.Forms.Panel pane4;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label17;
-        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label Team4;
         private System.Windows.Forms.PictureBox logo4;
-        private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.Panel pane3;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Label Team3;
         private System.Windows.Forms.PictureBox logo3;
-        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Panel pane2;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label Team2;
         private System.Windows.Forms.PictureBox logo2;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Panel pane1;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label Team1;
         private System.Windows.Forms.PictureBox logo1;
         private System.Windows.Forms.TabPage tabPage2;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel5;
-        private System.Windows.Forms.Panel panel25;
+        private System.Windows.Forms.Panel pane25;
         private System.Windows.Forms.Label label86;
         private System.Windows.Forms.Label label87;
         private System.Windows.Forms.Label label88;
-        private System.Windows.Forms.Label label89;
+        private System.Windows.Forms.Label Team25;
         private System.Windows.Forms.PictureBox logo25;
-        private System.Windows.Forms.Panel panel26;
+        private System.Windows.Forms.Panel pane24;
         private System.Windows.Forms.Label label90;
         private System.Windows.Forms.Label label91;
         private System.Windows.Forms.Label label92;
-        private System.Windows.Forms.Label label93;
+        private System.Windows.Forms.Label Team24;
         private System.Windows.Forms.PictureBox logo24;
-        private System.Windows.Forms.Panel panel27;
+        private System.Windows.Forms.Panel pane23;
         private System.Windows.Forms.Label label94;
         private System.Windows.Forms.Label label95;
         private System.Windows.Forms.Label label96;
-        private System.Windows.Forms.Label label97;
+        private System.Windows.Forms.Label Team23;
         private System.Windows.Forms.PictureBox logo23;
-        private System.Windows.Forms.Panel panel28;
+        private System.Windows.Forms.Panel pane22;
         private System.Windows.Forms.Label label98;
         private System.Windows.Forms.Label label99;
         private System.Windows.Forms.Label label100;
-        private System.Windows.Forms.Label label101;
+        private System.Windows.Forms.Label Team22;
         private System.Windows.Forms.PictureBox logo22;
         private System.Windows.Forms.Panel panel29;
         private System.Windows.Forms.Label label102;
-        private System.Windows.Forms.Panel panel30;
+        private System.Windows.Forms.Panel pane21;
         private System.Windows.Forms.Label label103;
         private System.Windows.Forms.Label label104;
         private System.Windows.Forms.Label label105;
-        private System.Windows.Forms.Label label106;
+        private System.Windows.Forms.Label Team21;
         private System.Windows.Forms.PictureBox logo21;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel7;
-        private System.Windows.Forms.Panel panel37;
+        private System.Windows.Forms.Panel pane20;
         private System.Windows.Forms.Label label128;
         private System.Windows.Forms.Label label129;
         private System.Windows.Forms.Label label130;
-        private System.Windows.Forms.Label label131;
+        private System.Windows.Forms.Label Team20;
         private System.Windows.Forms.PictureBox logo20;
-        private System.Windows.Forms.Panel panel38;
+        private System.Windows.Forms.Panel pane19;
         private System.Windows.Forms.Label label132;
         private System.Windows.Forms.Label label133;
         private System.Windows.Forms.Label label134;
-        private System.Windows.Forms.Label label135;
+        private System.Windows.Forms.Label Team19;
         private System.Windows.Forms.PictureBox logo19;
-        private System.Windows.Forms.Panel panel39;
+        private System.Windows.Forms.Panel pane18;
         private System.Windows.Forms.Label label136;
         private System.Windows.Forms.Label label137;
         private System.Windows.Forms.Label label138;
-        private System.Windows.Forms.Label label139;
+        private System.Windows.Forms.Label Team18;
         private System.Windows.Forms.PictureBox logo18;
-        private System.Windows.Forms.Panel panel40;
+        private System.Windows.Forms.Panel pane17;
         private System.Windows.Forms.Label label140;
         private System.Windows.Forms.Label label141;
         private System.Windows.Forms.Label label142;
-        private System.Windows.Forms.Label label143;
+        private System.Windows.Forms.Label Team17;
         private System.Windows.Forms.PictureBox logo17;
         private System.Windows.Forms.Panel panel41;
         private System.Windows.Forms.Label label144;
-        private System.Windows.Forms.Panel panel42;
+        private System.Windows.Forms.Panel pane16;
         private System.Windows.Forms.Label label145;
         private System.Windows.Forms.Label label146;
         private System.Windows.Forms.Label label147;
-        private System.Windows.Forms.Label label148;
+        private System.Windows.Forms.Label Team16;
         private System.Windows.Forms.PictureBox logo16;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel4;
-        private System.Windows.Forms.Panel panel19;
+        private System.Windows.Forms.Panel pane30;
         private System.Windows.Forms.Label label65;
         private System.Windows.Forms.Label label66;
         private System.Windows.Forms.Label label67;
-        private System.Windows.Forms.Label label68;
+        private System.Windows.Forms.Label Team30;
         private System.Windows.Forms.PictureBox logo30;
-        private System.Windows.Forms.Panel panel20;
+        private System.Windows.Forms.Panel pane29;
         private System.Windows.Forms.Label label69;
         private System.Windows.Forms.Label label70;
         private System.Windows.Forms.Label label71;
-        private System.Windows.Forms.Label label72;
+        private System.Windows.Forms.Label Team29;
         private System.Windows.Forms.PictureBox logo29;
-        private System.Windows.Forms.Panel panel21;
+        private System.Windows.Forms.Panel pane28;
         private System.Windows.Forms.Label label73;
         private System.Windows.Forms.Label label74;
         private System.Windows.Forms.Label label75;
-        private System.Windows.Forms.Label label76;
+        private System.Windows.Forms.Label Team28;
         private System.Windows.Forms.PictureBox logo28;
-        private System.Windows.Forms.Panel panel22;
+        private System.Windows.Forms.Panel pane27;
         private System.Windows.Forms.Label label77;
         private System.Windows.Forms.Label label78;
         private System.Windows.Forms.Label label79;
-        private System.Windows.Forms.Label label80;
+        private System.Windows.Forms.Label Team27;
         private System.Windows.Forms.PictureBox logo27;
         private System.Windows.Forms.Panel panel23;
         private System.Windows.Forms.Label label81;
-        private System.Windows.Forms.Panel panel24;
+        private System.Windows.Forms.Panel pane26;
         private System.Windows.Forms.Label label82;
         private System.Windows.Forms.Label label83;
         private System.Windows.Forms.Label label84;
-        private System.Windows.Forms.Label label85;
+        private System.Windows.Forms.Label Team26;
         private System.Windows.Forms.PictureBox logo26;
     }
 }
