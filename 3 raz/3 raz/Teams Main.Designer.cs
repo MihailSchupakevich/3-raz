@@ -1292,6 +1292,7 @@
             this.Team2.Size = new System.Drawing.Size(111, 23);
             this.Team2.TabIndex = 2;
             this.Team2.Text = "Team Name";
+            this.Team2.Click += new System.EventHandler(this.Team2_Click);
             // 
             // logo2
             // 

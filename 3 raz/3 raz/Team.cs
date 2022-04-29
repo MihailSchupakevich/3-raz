@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace _3_raz
 {
-    internal class Team
+    public class Team
     {
-        int teamId;
+        public int teamId;
     public String name;
         String abbr;
         String logo;

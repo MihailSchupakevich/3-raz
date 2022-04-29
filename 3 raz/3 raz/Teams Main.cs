@@ -12,7 +12,7 @@ namespace _3_raz
 {
     public partial class Teams_Main : Form
     {
-        Team[]teams=new Team[5];
+       public static Team[] teams=new Team[5];
         
         
         public Teams_Main()
@@ -50,8 +50,25 @@ namespace _3_raz
 
         private void label3_Click(object sender, EventArgs e)
         {
-            Form TeamsForm = new Team_Detail();
+            Team_Detail TeamsForm = new Team_Detail();
+           /*int  index = 0;
+            index = index - 1;
+            if (index - 3 < 0)
+                TeamsForm.teamId = 1;
+            TeamsForm.teamId = 2;
+            TeamsForm.teamId = 3;
+            TeamsForm.teamId = 4;
+            TeamsForm.teamId = 5;*/
+           
             TeamsForm.Show();
+        }
+
+        private void Team2_Click(object sender, EventArgs e)
+        {
+            Team_Detail TeamsForm = new Team_Detail();
+            TeamsForm.teamId = 2;
+            TeamsForm.Show();
+
         }
     }
 }

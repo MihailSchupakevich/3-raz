@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace _3_raz
 {
-    internal class Player
+    public class Player
     {
-        int playerId;
-        String lastName;
-        String firstName;
-        String gender;
-        float height;
-        float weight;
-        String shirtNumber;
-        String email;
-        String countryCode;
-        int teamId;
+    public  int playerId;
+       public String lastName;
+       public String firstName;
+       public String gender;
+      public  float height;
+      public  float weight;
+        public String shirtNumber;
+        public String email;
+        public  String countryCode;
+       public  int teamId;
 
         public void setAll(int playerId, String lastName, String firstName, String gender, float height, float weight, String shirtNumber, String email, String countryCode, int teamId)
         {
